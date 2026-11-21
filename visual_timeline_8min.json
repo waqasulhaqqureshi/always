@@ -1,0 +1,2314 @@
+{
+  "title": "Mitti De Baway Episode 1 - 8-Minute @film.feel.50 Visual Timeline",
+  "total_beats": 88,
+  "beats_per_part": 11,
+  "total_duration_sec": 480.0,
+  "output_spec": {
+    "resolution": "1920x1080",
+    "fps": 30,
+    "color_grade": "1.03x crop/scale, eq=contrast=1.08:saturation=1.15, warm highlights + cool shadows, subtle vignette",
+    "max_continuous_clip_sec": 2.75,
+    "ambient_bed_db": -29.0,
+    "max_file_size_mb": 85.0
+  },
+  "summary_counts": {
+    "clip_beats": 44,
+    "still_beats": 44,
+    "shock_flash_shake_beats": 14,
+    "xfade_transitions": 52,
+    "sfx_whoosh": 38,
+    "sfx_bass_hit": 14,
+    "sfx_riser": 10,
+    "sfx_heartbeat": 13
+  },
+  "beats": [
+    {
+      "beat_id": 1,
+      "part_number": 1,
+      "timeline_start_sec": 0.0,
+      "timeline_end_sec": 5.5,
+      "duration_sec": 5.5,
+      "visual_mode": "clip",
+      "source_part": "part1",
+      "source_video": "part1_compressed.mp4",
+      "shots": [
+        {
+          "source_start_sec": 282,
+          "duration_sec": 2.75,
+          "mute_audio": true
+        },
+        {
+          "source_start_sec": 287.39,
+          "duration_sec": 2.75,
+          "mute_audio": true
+        }
+      ],
+      "still": null,
+      "transition_in": "cut",
+      "xfade_duration_sec": 0.0,
+      "shock_flash_shake": false,
+      "sfx_cue": "riser",
+      "story_beat": "Hook: Woman in black praying for a vow fast"
+    },
+    {
+      "beat_id": 2,
+      "part_number": 1,
+      "timeline_start_sec": 5.5,
+      "timeline_end_sec": 10.9,
+      "duration_sec": 5.4,
+      "visual_mode": "still",
+      "source_part": "part1",
+      "source_video": "part1_compressed.mp4",
+      "shots": [],
+      "still": {
+        "frame_timestamp_sec": 460.26,
+        "ken_burns_motion": "zoom_in",
+        "zoom_range": [
+          1.0,
+          1.09
+        ]
+      },
+      "transition_in": "fade",
+      "xfade_duration_sec": 0.2,
+      "shock_flash_shake": true,
+      "sfx_cue": "bass_hit",
+      "story_beat": "Hook: Billo in black holding tasbeeh awaiting vengeance"
+    },
+    {
+      "beat_id": 3,
+      "part_number": 1,
+      "timeline_start_sec": 10.9,
+      "timeline_end_sec": 16.4,
+      "duration_sec": 5.5,
+      "visual_mode": "clip",
+      "source_part": "part1",
+      "source_video": "part1_compressed.mp4",
+      "shots": [
+        {
+          "source_start_sec": 190,
+          "duration_sec": 2.75,
+          "mute_audio": true
+        },
+        {
+          "source_start_sec": 194.39,
+          "duration_sec": 2.75,
+          "mute_audio": true
+        }
+      ],
+      "still": null,
+      "transition_in": "cut",
+      "xfade_duration_sec": 0.0,
+      "shock_flash_shake": false,
+      "sfx_cue": null,
+      "story_beat": "Hook: Baala walking out as prisoners cheer him like a king"
+    },
+    {
+      "beat_id": 4,
+      "part_number": 1,
+      "timeline_start_sec": 16.4,
+      "timeline_end_sec": 21.8,
+      "duration_sec": 5.4,
+      "visual_mode": "still",
+      "source_part": "part1",
+      "source_video": "part1_compressed.mp4",
+      "shots": [],
+      "still": {
+        "frame_timestamp_sec": 534.98,
+        "ken_burns_motion": "zoom_out",
+        "zoom_range": [
+          1.0,
+          1.09
+        ]
+      },
+      "transition_in": "zoomin",
+      "xfade_duration_sec": 0.2,
+      "shock_flash_shake": true,
+      "sfx_cue": "bass_hit",
+      "story_beat": "Hook: Kalashnikov assassins ambush Baala at the graveyard"
+    },
+    {
+      "beat_id": 5,
+      "part_number": 1,
+      "timeline_start_sec": 21.8,
+      "timeline_end_sec": 27.3,
+      "duration_sec": 5.5,
+      "visual_mode": "clip",
+      "source_part": "part1",
+      "source_video": "part1_compressed.mp4",
+      "shots": [
+        {
+          "source_start_sec": 660,
+          "duration_sec": 2.75,
+          "mute_audio": true
+        },
+        {
+          "source_start_sec": 670.63,
+          "duration_sec": 2.75,
+          "mute_audio": true
+        }
+      ],
+      "still": null,
+      "transition_in": "cut",
+      "xfade_duration_sec": 0.0,
+      "shock_flash_shake": false,
+      "sfx_cue": "heartbeat",
+      "story_beat": "Hook: Blood spilled in the dust — who is she and what is the score?"
+    },
+    {
+      "beat_id": 6,
+      "part_number": 1,
+      "timeline_start_sec": 27.3,
+      "timeline_end_sec": 32.7,
+      "duration_sec": 5.4,
+      "visual_mode": "still",
+      "source_part": "part1",
+      "source_video": "part1_compressed.mp4",
+      "shots": [],
+      "still": {
+        "frame_timestamp_sec": 42,
+        "ken_burns_motion": "pan_right",
+        "zoom_range": [
+          1.0,
+          1.09
+        ]
+      },
+      "transition_in": "fade",
+      "xfade_duration_sec": 0.2,
+      "shock_flash_shake": false,
+      "sfx_cue": "whoosh",
+      "story_beat": "Intro: Punjab's fertile soil of historic shrines"
+    },
+    {
+      "beat_id": 7,
+      "part_number": 1,
+      "timeline_start_sec": 32.7,
+      "timeline_end_sec": 38.2,
+      "duration_sec": 5.5,
+      "visual_mode": "clip",
+      "source_part": "part1",
+      "source_video": "part1_compressed.mp4",
+      "shots": [
+        {
+          "source_start_sec": 44,
+          "duration_sec": 2.75,
+          "mute_audio": true
+        },
+        {
+          "source_start_sec": 64.27,
+          "duration_sec": 2.75,
+          "mute_audio": true
+        }
+      ],
+      "still": null,
+      "transition_in": "cut",
+      "xfade_duration_sec": 0.0,
+      "shock_flash_shake": false,
+      "sfx_cue": null,
+      "story_beat": "Intro: Village arrival — love and hatred run equally deep"
+    },
+    {
+      "beat_id": 8,
+      "part_number": 1,
+      "timeline_start_sec": 38.2,
+      "timeline_end_sec": 43.6,
+      "duration_sec": 5.4,
+      "visual_mode": "still",
+      "source_part": "part1",
+      "source_video": "part1_compressed.mp4",
+      "shots": [],
+      "still": {
+        "frame_timestamp_sec": 102,
+        "ken_burns_motion": "pan_left",
+        "zoom_range": [
+          1.0,
+          1.09
+        ]
+      },
+      "transition_in": "smoothleft",
+      "xfade_duration_sec": 0.2,
+      "shock_flash_shake": false,
+      "sfx_cue": "whoosh",
+      "story_beat": "Intro: Mysterious black silhouette inside the vintage car"
+    },
+    {
+      "beat_id": 9,
+      "part_number": 1,
+      "timeline_start_sec": 43.6,
+      "timeline_end_sec": 49.1,
+      "duration_sec": 5.5,
+      "visual_mode": "clip",
+      "source_part": "part1",
+      "source_video": "part1_compressed.mp4",
+      "shots": [
+        {
+          "source_start_sec": 118.5,
+          "duration_sec": 2.75,
+          "mute_audio": true
+        },
+        {
+          "source_start_sec": 138.35,
+          "duration_sec": 2.75,
+          "mute_audio": true
+        }
+      ],
+      "still": null,
+      "transition_in": "cut",
+      "xfade_duration_sec": 0.0,
+      "shock_flash_shake": false,
+      "sfx_cue": "riser",
+      "story_beat": "1999: Gloomy prison corridor opens the story"
+    },
+    {
+      "beat_id": 10,
+      "part_number": 1,
+      "timeline_start_sec": 49.1,
+      "timeline_end_sec": 54.5,
+      "duration_sec": 5.4,
+      "visual_mode": "still",
+      "source_part": "part1",
+      "source_video": "part1_compressed.mp4",
+      "shots": [],
+      "still": {
+        "frame_timestamp_sec": 160,
+        "ken_burns_motion": "zoom_in",
+        "zoom_range": [
+          1.0,
+          1.09
+        ]
+      },
+      "transition_in": "fade",
+      "xfade_duration_sec": 0.2,
+      "shock_flash_shake": false,
+      "sfx_cue": "whoosh",
+      "story_beat": "1999: Iqbal Channan alias Baala walking in stark black"
+    },
+    {
+      "beat_id": 11,
+      "part_number": 1,
+      "timeline_start_sec": 54.5,
+      "timeline_end_sec": 60.0,
+      "duration_sec": 5.5,
+      "visual_mode": "clip",
+      "source_part": "part1",
+      "source_video": "part1_compressed.mp4",
+      "shots": [
+        {
+          "source_start_sec": 195,
+          "duration_sec": 2.75,
+          "mute_audio": true
+        },
+        {
+          "source_start_sec": 209.55,
+          "duration_sec": 2.75,
+          "mute_audio": true
+        }
+      ],
+      "still": null,
+      "transition_in": "cut",
+      "xfade_duration_sec": 0.0,
+      "shock_flash_shake": true,
+      "sfx_cue": "bass_hit",
+      "story_beat": "Reveal: Inmates slamming bars and saluting Baala"
+    },
+    {
+      "beat_id": 12,
+      "part_number": 2,
+      "timeline_start_sec": 60.0,
+      "timeline_end_sec": 65.5,
+      "duration_sec": 5.5,
+      "visual_mode": "still",
+      "source_part": "part1",
+      "source_video": "part1_compressed.mp4",
+      "shots": [],
+      "still": {
+        "frame_timestamp_sec": 259.38,
+        "ken_burns_motion": "zoom_out",
+        "zoom_range": [
+          1.0,
+          1.09
+        ]
+      },
+      "transition_in": "cut",
+      "xfade_duration_sec": 0.0,
+      "shock_flash_shake": false,
+      "sfx_cue": "whoosh",
+      "story_beat": "Prisoners chanting for Baala like a returning hero"
+    },
+    {
+      "beat_id": 13,
+      "part_number": 2,
+      "timeline_start_sec": 65.5,
+      "timeline_end_sec": 70.9,
+      "duration_sec": 5.4,
+      "visual_mode": "clip",
+      "source_part": "part1",
+      "source_video": "part1_compressed.mp4",
+      "shots": [
+        {
+          "source_start_sec": 262,
+          "duration_sec": 2.7,
+          "mute_audio": true
+        },
+        {
+          "source_start_sec": 276.55,
+          "duration_sec": 2.7,
+          "mute_audio": true
+        }
+      ],
+      "still": null,
+      "transition_in": "fade",
+      "xfade_duration_sec": 0.2,
+      "shock_flash_shake": false,
+      "sfx_cue": "heartbeat",
+      "story_beat": "Parallel cut: Bilqees Bano (Billo) draped in black praying"
+    },
+    {
+      "beat_id": 14,
+      "part_number": 2,
+      "timeline_start_sec": 70.9,
+      "timeline_end_sec": 76.4,
+      "duration_sec": 5.5,
+      "visual_mode": "still",
+      "source_part": "part1",
+      "source_video": "part1_compressed.mp4",
+      "shots": [],
+      "still": {
+        "frame_timestamp_sec": 289.36,
+        "ken_burns_motion": "pan_right",
+        "zoom_range": [
+          1.0,
+          1.09
+        ]
+      },
+      "transition_in": "zoomin",
+      "xfade_duration_sec": 0.2,
+      "shock_flash_shake": false,
+      "sfx_cue": "whoosh",
+      "story_beat": "Close-up: Billo raising her hands in intense prayer"
+    },
+    {
+      "beat_id": 15,
+      "part_number": 2,
+      "timeline_start_sec": 76.4,
+      "timeline_end_sec": 81.8,
+      "duration_sec": 5.4,
+      "visual_mode": "clip",
+      "source_part": "part1",
+      "source_video": "part1_compressed.mp4",
+      "shots": [
+        {
+          "source_start_sec": 308,
+          "duration_sec": 2.7,
+          "mute_audio": true
+        },
+        {
+          "source_start_sec": 328.51,
+          "duration_sec": 2.7,
+          "mute_audio": true
+        }
+      ],
+      "still": null,
+      "transition_in": "smoothleft",
+      "xfade_duration_sec": 0.2,
+      "shock_flash_shake": false,
+      "sfx_cue": null,
+      "story_beat": "Heavy iron prison gates sliding open to daylight"
+    },
+    {
+      "beat_id": 16,
+      "part_number": 2,
+      "timeline_start_sec": 81.8,
+      "timeline_end_sec": 87.3,
+      "duration_sec": 5.5,
+      "visual_mode": "still",
+      "source_part": "part1",
+      "source_video": "part1_compressed.mp4",
+      "shots": [],
+      "still": {
+        "frame_timestamp_sec": 337.8,
+        "ken_burns_motion": "pan_left",
+        "zoom_range": [
+          1.0,
+          1.09
+        ]
+      },
+      "transition_in": "smoothleft",
+      "xfade_duration_sec": 0.2,
+      "shock_flash_shake": false,
+      "sfx_cue": "whoosh",
+      "story_beat": "Baala stepping free into his loyal supporters' embrace"
+    },
+    {
+      "beat_id": 17,
+      "part_number": 2,
+      "timeline_start_sec": 87.3,
+      "timeline_end_sec": 92.7,
+      "duration_sec": 5.4,
+      "visual_mode": "clip",
+      "source_part": "part1",
+      "source_video": "part1_compressed.mp4",
+      "shots": [
+        {
+          "source_start_sec": 354,
+          "duration_sec": 2.7,
+          "mute_audio": true
+        },
+        {
+          "source_start_sec": 368.27,
+          "duration_sec": 2.7,
+          "mute_audio": true
+        }
+      ],
+      "still": null,
+      "transition_in": "zoomin",
+      "xfade_duration_sec": 0.2,
+      "shock_flash_shake": false,
+      "sfx_cue": null,
+      "story_beat": "Younger brother Jooji hugging Baala with joy"
+    },
+    {
+      "beat_id": 18,
+      "part_number": 2,
+      "timeline_start_sec": 92.7,
+      "timeline_end_sec": 98.2,
+      "duration_sec": 5.5,
+      "visual_mode": "still",
+      "source_part": "part1",
+      "source_video": "part1_compressed.mp4",
+      "shots": [],
+      "still": {
+        "frame_timestamp_sec": 393.88,
+        "ken_burns_motion": "zoom_in",
+        "zoom_range": [
+          1.0,
+          1.09
+        ]
+      },
+      "transition_in": "fade",
+      "xfade_duration_sec": 0.2,
+      "shock_flash_shake": false,
+      "sfx_cue": "whoosh",
+      "story_beat": "Graveyard arrival: Baala pouring water on his family grave"
+    },
+    {
+      "beat_id": 19,
+      "part_number": 2,
+      "timeline_start_sec": 98.2,
+      "timeline_end_sec": 103.6,
+      "duration_sec": 5.4,
+      "visual_mode": "clip",
+      "source_part": "part1",
+      "source_video": "part1_compressed.mp4",
+      "shots": [
+        {
+          "source_start_sec": 412,
+          "duration_sec": 2.7,
+          "mute_audio": true
+        },
+        {
+          "source_start_sec": 421.03,
+          "duration_sec": 2.7,
+          "mute_audio": true
+        }
+      ],
+      "still": null,
+      "transition_in": "fade",
+      "xfade_duration_sec": 0.2,
+      "shock_flash_shake": false,
+      "sfx_cue": "heartbeat",
+      "story_beat": "Baala standing solemn among the graves in quiet prayer"
+    },
+    {
+      "beat_id": 20,
+      "part_number": 2,
+      "timeline_start_sec": 103.6,
+      "timeline_end_sec": 109.1,
+      "duration_sec": 5.5,
+      "visual_mode": "still",
+      "source_part": "part1",
+      "source_video": "part1_compressed.mp4",
+      "shots": [],
+      "still": {
+        "frame_timestamp_sec": 460.26,
+        "ken_burns_motion": "zoom_out",
+        "zoom_range": [
+          1.0,
+          1.09
+        ]
+      },
+      "transition_in": "fade",
+      "xfade_duration_sec": 0.2,
+      "shock_flash_shake": false,
+      "sfx_cue": "whoosh",
+      "story_beat": "Shrine interior: Billo refusing food with cold composure"
+    },
+    {
+      "beat_id": 21,
+      "part_number": 2,
+      "timeline_start_sec": 109.1,
+      "timeline_end_sec": 114.5,
+      "duration_sec": 5.4,
+      "visual_mode": "clip",
+      "source_part": "part1",
+      "source_video": "part1_compressed.mp4",
+      "shots": [
+        {
+          "source_start_sec": 468,
+          "duration_sec": 2.7,
+          "mute_audio": true
+        },
+        {
+          "source_start_sec": 479.75,
+          "duration_sec": 2.7,
+          "mute_audio": true
+        }
+      ],
+      "still": null,
+      "transition_in": "smoothleft",
+      "xfade_duration_sec": 0.2,
+      "shock_flash_shake": false,
+      "sfx_cue": "riser",
+      "story_beat": "Billo declares her vow fast will only break when fulfilled"
+    },
+    {
+      "beat_id": 22,
+      "part_number": 2,
+      "timeline_start_sec": 114.5,
+      "timeline_end_sec": 120.0,
+      "duration_sec": 5.5,
+      "visual_mode": "still",
+      "source_part": "part1",
+      "source_video": "part1_compressed.mp4",
+      "shots": [],
+      "still": {
+        "frame_timestamp_sec": 483.78,
+        "ken_burns_motion": "pan_right",
+        "zoom_range": [
+          1.0,
+          1.09
+        ]
+      },
+      "transition_in": "zoomin",
+      "xfade_duration_sec": 0.2,
+      "shock_flash_shake": true,
+      "sfx_cue": "bass_hit",
+      "story_beat": "Tense close-up of Baala praying right before danger strikes"
+    },
+    {
+      "beat_id": 23,
+      "part_number": 3,
+      "timeline_start_sec": 120.0,
+      "timeline_end_sec": 125.5,
+      "duration_sec": 5.5,
+      "visual_mode": "clip",
+      "source_part": "part1",
+      "source_video": "part1_compressed.mp4",
+      "shots": [
+        {
+          "source_start_sec": 502.15,
+          "duration_sec": 2.75,
+          "mute_audio": true
+        },
+        {
+          "source_start_sec": 514.71,
+          "duration_sec": 2.75,
+          "mute_audio": true
+        }
+      ],
+      "still": null,
+      "transition_in": "cut",
+      "xfade_duration_sec": 0.0,
+      "shock_flash_shake": true,
+      "sfx_cue": "bass_hit",
+      "story_beat": "Assassins emerge behind gravestones aiming Kalashnikovs"
+    },
+    {
+      "beat_id": 24,
+      "part_number": 3,
+      "timeline_start_sec": 125.5,
+      "timeline_end_sec": 130.9,
+      "duration_sec": 5.4,
+      "visual_mode": "still",
+      "source_part": "part1",
+      "source_video": "part1_compressed.mp4",
+      "shots": [],
+      "still": {
+        "frame_timestamp_sec": 534.98,
+        "ken_burns_motion": "pan_left",
+        "zoom_range": [
+          1.0,
+          1.09
+        ]
+      },
+      "transition_in": "smoothleft",
+      "xfade_duration_sec": 0.2,
+      "shock_flash_shake": false,
+      "sfx_cue": "whoosh",
+      "story_beat": "Baala spotting the ambush — silence shatters"
+    },
+    {
+      "beat_id": 25,
+      "part_number": 3,
+      "timeline_start_sec": 130.9,
+      "timeline_end_sec": 136.4,
+      "duration_sec": 5.5,
+      "visual_mode": "clip",
+      "source_part": "part1",
+      "source_video": "part1_compressed.mp4",
+      "shots": [
+        {
+          "source_start_sec": 545,
+          "duration_sec": 2.75,
+          "mute_audio": true
+        },
+        {
+          "source_start_sec": 559.99,
+          "duration_sec": 2.75,
+          "mute_audio": true
+        }
+      ],
+      "still": null,
+      "transition_in": "cut",
+      "xfade_duration_sec": 0.0,
+      "shock_flash_shake": true,
+      "sfx_cue": "bass_hit",
+      "story_beat": "Baala screaming at Jooji to run as Jooji refuses to leave"
+    },
+    {
+      "beat_id": 26,
+      "part_number": 3,
+      "timeline_start_sec": 136.4,
+      "timeline_end_sec": 141.8,
+      "duration_sec": 5.4,
+      "visual_mode": "still",
+      "source_part": "part1",
+      "source_video": "part1_compressed.mp4",
+      "shots": [],
+      "still": {
+        "frame_timestamp_sec": 598.7,
+        "ken_burns_motion": "zoom_in",
+        "zoom_range": [
+          1.0,
+          1.09
+        ]
+      },
+      "transition_in": "zoomin",
+      "xfade_duration_sec": 0.2,
+      "shock_flash_shake": false,
+      "sfx_cue": "whoosh",
+      "story_beat": "Gunfire tearing across the cemetery"
+    },
+    {
+      "beat_id": 27,
+      "part_number": 3,
+      "timeline_start_sec": 141.8,
+      "timeline_end_sec": 147.3,
+      "duration_sec": 5.5,
+      "visual_mode": "clip",
+      "source_part": "part1",
+      "source_video": "part1_compressed.mp4",
+      "shots": [
+        {
+          "source_start_sec": 614,
+          "duration_sec": 2.75,
+          "mute_audio": true
+        },
+        {
+          "source_start_sec": 629.83,
+          "duration_sec": 2.75,
+          "mute_audio": true
+        }
+      ],
+      "still": null,
+      "transition_in": "cut",
+      "xfade_duration_sec": 0.0,
+      "shock_flash_shake": false,
+      "sfx_cue": "heartbeat",
+      "story_beat": "Parallel cut: Billo standing stone-cold outside the white shrine"
+    },
+    {
+      "beat_id": 28,
+      "part_number": 3,
+      "timeline_start_sec": 147.3,
+      "timeline_end_sec": 152.7,
+      "duration_sec": 5.4,
+      "visual_mode": "still",
+      "source_part": "part1",
+      "source_video": "part1_compressed.mp4",
+      "shots": [],
+      "still": {
+        "frame_timestamp_sec": 655.96,
+        "ken_burns_motion": "zoom_out",
+        "zoom_range": [
+          1.0,
+          1.09
+        ]
+      },
+      "transition_in": "fade",
+      "xfade_duration_sec": 0.2,
+      "shock_flash_shake": false,
+      "sfx_cue": "whoosh",
+      "story_beat": "Billo's unblinking gaze sensing destiny unfold"
+    },
+    {
+      "beat_id": 29,
+      "part_number": 3,
+      "timeline_start_sec": 152.7,
+      "timeline_end_sec": 158.2,
+      "duration_sec": 5.5,
+      "visual_mode": "clip",
+      "source_part": "part1",
+      "source_video": "part1_compressed.mp4",
+      "shots": [
+        {
+          "source_start_sec": 666,
+          "duration_sec": 2.75,
+          "mute_audio": true
+        },
+        {
+          "source_start_sec": 679.15,
+          "duration_sec": 2.75,
+          "mute_audio": true
+        }
+      ],
+      "still": null,
+      "transition_in": "cut",
+      "xfade_duration_sec": 0.0,
+      "shock_flash_shake": true,
+      "sfx_cue": "bass_hit",
+      "story_beat": "Jooji gunned down, collapsing bloodied by a gravestone"
+    },
+    {
+      "beat_id": 30,
+      "part_number": 3,
+      "timeline_start_sec": 158.2,
+      "timeline_end_sec": 163.6,
+      "duration_sec": 5.4,
+      "visual_mode": "still",
+      "source_part": "part1",
+      "source_video": "part1_compressed.mp4",
+      "shots": [],
+      "still": {
+        "frame_timestamp_sec": 714.38,
+        "ken_burns_motion": "pan_right",
+        "zoom_range": [
+          1.0,
+          1.09
+        ]
+      },
+      "transition_in": "zoomin",
+      "xfade_duration_sec": 0.2,
+      "shock_flash_shake": false,
+      "sfx_cue": "whoosh",
+      "story_beat": "Baala struck by bullets crashing into the dust"
+    },
+    {
+      "beat_id": 31,
+      "part_number": 3,
+      "timeline_start_sec": 163.6,
+      "timeline_end_sec": 169.1,
+      "duration_sec": 5.5,
+      "visual_mode": "clip",
+      "source_part": "part1",
+      "source_video": "part1_compressed.mp4",
+      "shots": [
+        {
+          "source_start_sec": 718,
+          "duration_sec": 2.75,
+          "mute_audio": true
+        },
+        {
+          "source_start_sec": 735.71,
+          "duration_sec": 2.75,
+          "mute_audio": true
+        }
+      ],
+      "still": null,
+      "transition_in": "cut",
+      "xfade_duration_sec": 0.0,
+      "shock_flash_shake": false,
+      "sfx_cue": "heartbeat",
+      "story_beat": "Baala lying wounded as silence returns to the graveyard"
+    },
+    {
+      "beat_id": 32,
+      "part_number": 3,
+      "timeline_start_sec": 169.1,
+      "timeline_end_sec": 174.5,
+      "duration_sec": 5.4,
+      "visual_mode": "still",
+      "source_part": "part1",
+      "source_video": "part1_compressed.mp4",
+      "shots": [],
+      "still": {
+        "frame_timestamp_sec": 760,
+        "ken_burns_motion": "pan_left",
+        "zoom_range": [
+          1.0,
+          1.09
+        ]
+      },
+      "transition_in": "fade",
+      "xfade_duration_sec": 0.2,
+      "shock_flash_shake": false,
+      "sfx_cue": "whoosh",
+      "story_beat": "Back at the shrine: Billo standing tall in black"
+    },
+    {
+      "beat_id": 33,
+      "part_number": 3,
+      "timeline_start_sec": 174.5,
+      "timeline_end_sec": 180.0,
+      "duration_sec": 5.5,
+      "visual_mode": "clip",
+      "source_part": "part1",
+      "source_video": "part1_compressed.mp4",
+      "shots": [
+        {
+          "source_start_sec": 796,
+          "duration_sec": 2.75,
+          "mute_audio": true
+        },
+        {
+          "source_start_sec": 800.27,
+          "duration_sec": 2.75,
+          "mute_audio": true
+        }
+      ],
+      "still": null,
+      "transition_in": "fade",
+      "xfade_duration_sec": 0.2,
+      "shock_flash_shake": true,
+      "sfx_cue": "bass_hit",
+      "story_beat": "Chilling calm: Billo closing her eyes as her vow completes"
+    },
+    {
+      "beat_id": 34,
+      "part_number": 4,
+      "timeline_start_sec": 180.0,
+      "timeline_end_sec": 185.5,
+      "duration_sec": 5.5,
+      "visual_mode": "still",
+      "source_part": "part1",
+      "source_video": "part1_compressed.mp4",
+      "shots": [],
+      "still": {
+        "frame_timestamp_sec": 855.64,
+        "ken_burns_motion": "zoom_in",
+        "zoom_range": [
+          1.0,
+          1.09
+        ]
+      },
+      "transition_in": "cut",
+      "xfade_duration_sec": 0.0,
+      "shock_flash_shake": false,
+      "sfx_cue": "riser",
+      "story_beat": "Overhead shot of graveyard rewinding years into the past"
+    },
+    {
+      "beat_id": 35,
+      "part_number": 4,
+      "timeline_start_sec": 185.5,
+      "timeline_end_sec": 190.9,
+      "duration_sec": 5.4,
+      "visual_mode": "clip",
+      "source_part": "part1",
+      "source_video": "part1_compressed.mp4",
+      "shots": [
+        {
+          "source_start_sec": 862,
+          "duration_sec": 2.7,
+          "mute_audio": true
+        },
+        {
+          "source_start_sec": 882.23,
+          "duration_sec": 2.7,
+          "mute_audio": true
+        }
+      ],
+      "still": null,
+      "transition_in": "smoothleft",
+      "xfade_duration_sec": 0.2,
+      "shock_flash_shake": false,
+      "sfx_cue": "whoosh",
+      "story_beat": "Time shift: Years before prison, guns, and bloodshed"
+    },
+    {
+      "beat_id": 36,
+      "part_number": 4,
+      "timeline_start_sec": 190.9,
+      "timeline_end_sec": 196.4,
+      "duration_sec": 5.5,
+      "visual_mode": "still",
+      "source_part": "part1",
+      "source_video": "part1_compressed.mp4",
+      "shots": [],
+      "still": {
+        "frame_timestamp_sec": 897.46,
+        "ken_burns_motion": "zoom_out",
+        "zoom_range": [
+          1.0,
+          1.09
+        ]
+      },
+      "transition_in": "cut",
+      "xfade_duration_sec": 0.0,
+      "shock_flash_shake": false,
+      "sfx_cue": "whoosh",
+      "story_beat": "Younger carefree Jooji riding his motorcycle through town"
+    },
+    {
+      "beat_id": 37,
+      "part_number": 4,
+      "timeline_start_sec": 196.4,
+      "timeline_end_sec": 201.8,
+      "duration_sec": 5.4,
+      "visual_mode": "clip",
+      "source_part": "part1",
+      "source_video": "part1_compressed.mp4",
+      "shots": [
+        {
+          "source_start_sec": 906,
+          "duration_sec": 2.7,
+          "mute_audio": true
+        },
+        {
+          "source_start_sec": 919.27,
+          "duration_sec": 2.7,
+          "mute_audio": true
+        }
+      ],
+      "still": null,
+      "transition_in": "fade",
+      "xfade_duration_sec": 0.2,
+      "shock_flash_shake": false,
+      "sfx_cue": "whoosh",
+      "story_beat": "Respectable Iqbal Channan before he became the feared Baala"
+    },
+    {
+      "beat_id": 38,
+      "part_number": 4,
+      "timeline_start_sec": 201.8,
+      "timeline_end_sec": 207.3,
+      "duration_sec": 5.5,
+      "visual_mode": "still",
+      "source_part": "part1",
+      "source_video": "part1_compressed.mp4",
+      "shots": [],
+      "still": {
+        "frame_timestamp_sec": 942.82,
+        "ken_burns_motion": "pan_right",
+        "zoom_range": [
+          1.0,
+          1.09
+        ]
+      },
+      "transition_in": "cut",
+      "xfade_duration_sec": 0.0,
+      "shock_flash_shake": false,
+      "sfx_cue": "whoosh",
+      "story_beat": "At home: Devoted wife Zareena speaking to Iqbal"
+    },
+    {
+      "beat_id": 39,
+      "part_number": 4,
+      "timeline_start_sec": 207.3,
+      "timeline_end_sec": 212.7,
+      "duration_sec": 5.4,
+      "visual_mode": "clip",
+      "source_part": "part2",
+      "source_video": "part2_compressed.mp4",
+      "shots": [
+        {
+          "source_start_sec": 0.2,
+          "duration_sec": 2.7,
+          "mute_audio": true
+        },
+        {
+          "source_start_sec": 6.39,
+          "duration_sec": 2.7,
+          "mute_audio": true
+        }
+      ],
+      "still": null,
+      "transition_in": "fade",
+      "xfade_duration_sec": 0.2,
+      "shock_flash_shake": false,
+      "sfx_cue": "whoosh",
+      "story_beat": "Zareena reminding Iqbal of the four-tola gold bangles promise"
+    },
+    {
+      "beat_id": 40,
+      "part_number": 4,
+      "timeline_start_sec": 212.7,
+      "timeline_end_sec": 218.2,
+      "duration_sec": 5.5,
+      "visual_mode": "still",
+      "source_part": "part1",
+      "source_video": "part1_compressed.mp4",
+      "shots": [],
+      "still": {
+        "frame_timestamp_sec": 942.82,
+        "ken_burns_motion": "pan_left",
+        "zoom_range": [
+          1.0,
+          1.09
+        ]
+      },
+      "transition_in": "cut",
+      "xfade_duration_sec": 0.0,
+      "shock_flash_shake": false,
+      "sfx_cue": "whoosh",
+      "story_beat": "Iqbal explaining Kausar's wedding comes first"
+    },
+    {
+      "beat_id": 41,
+      "part_number": 4,
+      "timeline_start_sec": 218.2,
+      "timeline_end_sec": 223.6,
+      "duration_sec": 5.4,
+      "visual_mode": "clip",
+      "source_part": "part2",
+      "source_video": "part2_compressed.mp4",
+      "shots": [
+        {
+          "source_start_sec": 2.15,
+          "duration_sec": 2.7,
+          "mute_audio": true
+        },
+        {
+          "source_start_sec": 6.39,
+          "duration_sec": 2.7,
+          "mute_audio": true
+        }
+      ],
+      "still": null,
+      "transition_in": "smoothleft",
+      "xfade_duration_sec": 0.2,
+      "shock_flash_shake": false,
+      "sfx_cue": "whoosh",
+      "story_beat": "Zareena reacting gently to Iqbal's devotion to his siblings"
+    },
+    {
+      "beat_id": 42,
+      "part_number": 4,
+      "timeline_start_sec": 223.6,
+      "timeline_end_sec": 229.1,
+      "duration_sec": 5.5,
+      "visual_mode": "still",
+      "source_part": "part1",
+      "source_video": "part1_compressed.mp4",
+      "shots": [],
+      "still": {
+        "frame_timestamp_sec": 914,
+        "ken_burns_motion": "zoom_in",
+        "zoom_range": [
+          1.0,
+          1.09
+        ]
+      },
+      "transition_in": "cut",
+      "xfade_duration_sec": 0.0,
+      "shock_flash_shake": false,
+      "sfx_cue": "heartbeat",
+      "story_beat": "Iqbal insisting he is both mother and father to his siblings"
+    },
+    {
+      "beat_id": 43,
+      "part_number": 4,
+      "timeline_start_sec": 229.1,
+      "timeline_end_sec": 234.5,
+      "duration_sec": 5.4,
+      "visual_mode": "clip",
+      "source_part": "part2",
+      "source_video": "part2_compressed.mp4",
+      "shots": [
+        {
+          "source_start_sec": 18,
+          "duration_sec": 2.7,
+          "mute_audio": true
+        },
+        {
+          "source_start_sec": 27.15,
+          "duration_sec": 2.7,
+          "mute_audio": true
+        }
+      ],
+      "still": null,
+      "transition_in": "fade",
+      "xfade_duration_sec": 0.2,
+      "shock_flash_shake": false,
+      "sfx_cue": "whoosh",
+      "story_beat": "Transition to Iqbal's honest livelihood at the fabric shop"
+    },
+    {
+      "beat_id": 44,
+      "part_number": 4,
+      "timeline_start_sec": 234.5,
+      "timeline_end_sec": 240.0,
+      "duration_sec": 5.5,
+      "visual_mode": "still",
+      "source_part": "part2",
+      "source_video": "part2_compressed.mp4",
+      "shots": [],
+      "still": {
+        "frame_timestamp_sec": 31.58,
+        "ken_burns_motion": "zoom_out",
+        "zoom_range": [
+          1.0,
+          1.09
+        ]
+      },
+      "transition_in": "cut",
+      "xfade_duration_sec": 0.0,
+      "shock_flash_shake": false,
+      "sfx_cue": "whoosh",
+      "story_beat": "Busy cloth shop where Iqbal built his life from scratch"
+    },
+    {
+      "beat_id": 45,
+      "part_number": 5,
+      "timeline_start_sec": 240.0,
+      "timeline_end_sec": 245.5,
+      "duration_sec": 5.5,
+      "visual_mode": "clip",
+      "source_part": "part2",
+      "source_video": "part2_compressed.mp4",
+      "shots": [
+        {
+          "source_start_sec": 28,
+          "duration_sec": 2.75,
+          "mute_audio": true
+        },
+        {
+          "source_start_sec": 39.59,
+          "duration_sec": 2.75,
+          "mute_audio": true
+        }
+      ],
+      "still": null,
+      "transition_in": "cut",
+      "xfade_duration_sec": 0.0,
+      "shock_flash_shake": false,
+      "sfx_cue": "riser",
+      "story_beat": "Extortionists barging into the cloth shop demanding cash"
+    },
+    {
+      "beat_id": 46,
+      "part_number": 5,
+      "timeline_start_sec": 245.5,
+      "timeline_end_sec": 250.9,
+      "duration_sec": 5.4,
+      "visual_mode": "still",
+      "source_part": "part2",
+      "source_video": "part2_compressed.mp4",
+      "shots": [],
+      "still": {
+        "frame_timestamp_sec": 46.58,
+        "ken_burns_motion": "pan_right",
+        "zoom_range": [
+          1.0,
+          1.09
+        ]
+      },
+      "transition_in": "zoomin",
+      "xfade_duration_sec": 0.2,
+      "shock_flash_shake": true,
+      "sfx_cue": "bass_hit",
+      "story_beat": "Hot-blooded Jooji exploding at the street thugs"
+    },
+    {
+      "beat_id": 47,
+      "part_number": 5,
+      "timeline_start_sec": 250.9,
+      "timeline_end_sec": 256.4,
+      "duration_sec": 5.5,
+      "visual_mode": "clip",
+      "source_part": "part2",
+      "source_video": "part2_compressed.mp4",
+      "shots": [
+        {
+          "source_start_sec": 46,
+          "duration_sec": 2.75,
+          "mute_audio": true
+        },
+        {
+          "source_start_sec": 51.35,
+          "duration_sec": 2.75,
+          "mute_audio": true
+        }
+      ],
+      "still": null,
+      "transition_in": "cut",
+      "xfade_duration_sec": 0.0,
+      "shock_flash_shake": false,
+      "sfx_cue": null,
+      "story_beat": "Heated argument escalating almost to a physical brawl"
+    },
+    {
+      "beat_id": 48,
+      "part_number": 5,
+      "timeline_start_sec": 256.4,
+      "timeline_end_sec": 261.8,
+      "duration_sec": 5.4,
+      "visual_mode": "still",
+      "source_part": "part2",
+      "source_video": "part2_compressed.mp4",
+      "shots": [],
+      "still": {
+        "frame_timestamp_sec": 71.12,
+        "ken_burns_motion": "pan_left",
+        "zoom_range": [
+          1.0,
+          1.09
+        ]
+      },
+      "transition_in": "smoothleft",
+      "xfade_duration_sec": 0.2,
+      "shock_flash_shake": false,
+      "sfx_cue": "whoosh",
+      "story_beat": "Iqbal stepping calmly between Jooji and the thugs"
+    },
+    {
+      "beat_id": 49,
+      "part_number": 5,
+      "timeline_start_sec": 261.8,
+      "timeline_end_sec": 267.3,
+      "duration_sec": 5.5,
+      "visual_mode": "clip",
+      "source_part": "part2",
+      "source_video": "part2_compressed.mp4",
+      "shots": [
+        {
+          "source_start_sec": 64,
+          "duration_sec": 2.75,
+          "mute_audio": true
+        },
+        {
+          "source_start_sec": 72.55,
+          "duration_sec": 2.75,
+          "mute_audio": true
+        }
+      ],
+      "still": null,
+      "transition_in": "cut",
+      "xfade_duration_sec": 0.0,
+      "shock_flash_shake": false,
+      "sfx_cue": null,
+      "story_beat": "Iqbal greeting the gang elder with quiet diplomacy"
+    },
+    {
+      "beat_id": 50,
+      "part_number": 5,
+      "timeline_start_sec": 267.3,
+      "timeline_end_sec": 272.7,
+      "duration_sec": 5.4,
+      "visual_mode": "still",
+      "source_part": "part2",
+      "source_video": "part2_compressed.mp4",
+      "shots": [],
+      "still": {
+        "frame_timestamp_sec": 89.44,
+        "ken_burns_motion": "zoom_in",
+        "zoom_range": [
+          1.0,
+          1.09
+        ]
+      },
+      "transition_in": "fade",
+      "xfade_duration_sec": 0.2,
+      "shock_flash_shake": false,
+      "sfx_cue": "whoosh",
+      "story_beat": "Jooji fuming after the thugs leave"
+    },
+    {
+      "beat_id": 51,
+      "part_number": 5,
+      "timeline_start_sec": 272.7,
+      "timeline_end_sec": 278.2,
+      "duration_sec": 5.5,
+      "visual_mode": "clip",
+      "source_part": "part2",
+      "source_video": "part2_compressed.mp4",
+      "shots": [
+        {
+          "source_start_sec": 84,
+          "duration_sec": 2.75,
+          "mute_audio": true
+        },
+        {
+          "source_start_sec": 92.31,
+          "duration_sec": 2.75,
+          "mute_audio": true
+        }
+      ],
+      "still": null,
+      "transition_in": "cut",
+      "xfade_duration_sec": 0.0,
+      "shock_flash_shake": false,
+      "sfx_cue": null,
+      "story_beat": "Jooji protesting why his brother scolded him"
+    },
+    {
+      "beat_id": 52,
+      "part_number": 5,
+      "timeline_start_sec": 278.2,
+      "timeline_end_sec": 283.6,
+      "duration_sec": 5.4,
+      "visual_mode": "still",
+      "source_part": "part2",
+      "source_video": "part2_compressed.mp4",
+      "shots": [],
+      "still": {
+        "frame_timestamp_sec": 109.6,
+        "ken_burns_motion": "zoom_out",
+        "zoom_range": [
+          1.0,
+          1.09
+        ]
+      },
+      "transition_in": "fade",
+      "xfade_duration_sec": 0.2,
+      "shock_flash_shake": false,
+      "sfx_cue": "whoosh",
+      "story_beat": "Iqbal warning: We are here to trade, not play gangsters"
+    },
+    {
+      "beat_id": 53,
+      "part_number": 5,
+      "timeline_start_sec": 283.6,
+      "timeline_end_sec": 289.1,
+      "duration_sec": 5.5,
+      "visual_mode": "clip",
+      "source_part": "part2",
+      "source_video": "part2_compressed.mp4",
+      "shots": [
+        {
+          "source_start_sec": 98,
+          "duration_sec": 2.75,
+          "mute_audio": true
+        },
+        {
+          "source_start_sec": 108.03,
+          "duration_sec": 2.75,
+          "mute_audio": true
+        }
+      ],
+      "still": null,
+      "transition_in": "cut",
+      "xfade_duration_sec": 0.0,
+      "shock_flash_shake": false,
+      "sfx_cue": "heartbeat",
+      "story_beat": "Kausar's wedding and next year's Hajj — no enemies allowed"
+    },
+    {
+      "beat_id": 54,
+      "part_number": 5,
+      "timeline_start_sec": 289.1,
+      "timeline_end_sec": 294.5,
+      "duration_sec": 5.4,
+      "visual_mode": "still",
+      "source_part": "part2",
+      "source_video": "part2_compressed.mp4",
+      "shots": [],
+      "still": {
+        "frame_timestamp_sec": 117.0,
+        "ken_burns_motion": "pan_right",
+        "zoom_range": [
+          1.0,
+          1.09
+        ]
+      },
+      "transition_in": "zoomin",
+      "xfade_duration_sec": 0.2,
+      "shock_flash_shake": false,
+      "sfx_cue": "riser",
+      "story_beat": "Dramatic irony: The peaceful shopkeeper fated for war"
+    },
+    {
+      "beat_id": 55,
+      "part_number": 5,
+      "timeline_start_sec": 294.5,
+      "timeline_end_sec": 300.0,
+      "duration_sec": 5.5,
+      "visual_mode": "clip",
+      "source_part": "part2",
+      "source_video": "part2_compressed.mp4",
+      "shots": [
+        {
+          "source_start_sec": 118,
+          "duration_sec": 2.75,
+          "mute_audio": true
+        },
+        {
+          "source_start_sec": 127.07,
+          "duration_sec": 2.75,
+          "mute_audio": true
+        }
+      ],
+      "still": null,
+      "transition_in": "cut",
+      "xfade_duration_sec": 0.0,
+      "shock_flash_shake": false,
+      "sfx_cue": null,
+      "story_beat": "Neighborhood lanes buzzing as everyday life shifts"
+    },
+    {
+      "beat_id": 56,
+      "part_number": 6,
+      "timeline_start_sec": 300.0,
+      "timeline_end_sec": 305.5,
+      "duration_sec": 5.5,
+      "visual_mode": "still",
+      "source_part": "part2",
+      "source_video": "part2_compressed.mp4",
+      "shots": [],
+      "still": {
+        "frame_timestamp_sec": 147.24,
+        "ken_burns_motion": "pan_left",
+        "zoom_range": [
+          1.0,
+          1.09
+        ]
+      },
+      "transition_in": "cut",
+      "xfade_duration_sec": 0.0,
+      "shock_flash_shake": false,
+      "sfx_cue": "whoosh",
+      "story_beat": "Women chatting in the lane as commotion builds"
+    },
+    {
+      "beat_id": 57,
+      "part_number": 6,
+      "timeline_start_sec": 305.5,
+      "timeline_end_sec": 310.9,
+      "duration_sec": 5.4,
+      "visual_mode": "clip",
+      "source_part": "part2",
+      "source_video": "part2_compressed.mp4",
+      "shots": [
+        {
+          "source_start_sec": 164,
+          "duration_sec": 2.7,
+          "mute_audio": true
+        },
+        {
+          "source_start_sec": 174.19,
+          "duration_sec": 2.7,
+          "mute_audio": true
+        }
+      ],
+      "still": null,
+      "transition_in": "zoomin",
+      "xfade_duration_sec": 0.2,
+      "shock_flash_shake": false,
+      "sfx_cue": null,
+      "story_beat": "Convoy of white SUVs arriving at the wealthy Shah haveli"
+    },
+    {
+      "beat_id": 58,
+      "part_number": 6,
+      "timeline_start_sec": 310.9,
+      "timeline_end_sec": 316.4,
+      "duration_sec": 5.5,
+      "visual_mode": "still",
+      "source_part": "part2",
+      "source_video": "part2_compressed.mp4",
+      "shots": [],
+      "still": {
+        "frame_timestamp_sec": 178.9,
+        "ken_burns_motion": "zoom_in",
+        "zoom_range": [
+          1.0,
+          1.09
+        ]
+      },
+      "transition_in": "fade",
+      "xfade_duration_sec": 0.2,
+      "shock_flash_shake": false,
+      "sfx_cue": "whoosh",
+      "story_beat": "Word spreads: Saint Wadde Sarkar has visited the Shahs"
+    },
+    {
+      "beat_id": 59,
+      "part_number": 6,
+      "timeline_start_sec": 316.4,
+      "timeline_end_sec": 321.8,
+      "duration_sec": 5.4,
+      "visual_mode": "clip",
+      "source_part": "part2",
+      "source_video": "part2_compressed.mp4",
+      "shots": [
+        {
+          "source_start_sec": 198,
+          "duration_sec": 2.7,
+          "mute_audio": true
+        },
+        {
+          "source_start_sec": 210.03,
+          "duration_sec": 2.7,
+          "mute_audio": true
+        }
+      ],
+      "still": null,
+      "transition_in": "fade",
+      "xfade_duration_sec": 0.2,
+      "shock_flash_shake": false,
+      "sfx_cue": null,
+      "story_beat": "Inside Iqbal's home: Family rushing as Iqbal returns"
+    },
+    {
+      "beat_id": 60,
+      "part_number": 6,
+      "timeline_start_sec": 321.8,
+      "timeline_end_sec": 327.3,
+      "duration_sec": 5.5,
+      "visual_mode": "still",
+      "source_part": "part2",
+      "source_video": "part2_compressed.mp4",
+      "shots": [],
+      "still": {
+        "frame_timestamp_sec": 255.36,
+        "ken_burns_motion": "zoom_out",
+        "zoom_range": [
+          1.0,
+          1.09
+        ]
+      },
+      "transition_in": "fade",
+      "xfade_duration_sec": 0.2,
+      "shock_flash_shake": false,
+      "sfx_cue": "whoosh",
+      "story_beat": "Iqbal displeased catching young son Ibrahim playing music"
+    },
+    {
+      "beat_id": 61,
+      "part_number": 6,
+      "timeline_start_sec": 327.3,
+      "timeline_end_sec": 332.7,
+      "duration_sec": 5.4,
+      "visual_mode": "clip",
+      "source_part": "part2",
+      "source_video": "part2_compressed.mp4",
+      "shots": [
+        {
+          "source_start_sec": 260,
+          "duration_sec": 2.7,
+          "mute_audio": true
+        },
+        {
+          "source_start_sec": 272.95,
+          "duration_sec": 2.7,
+          "mute_audio": true
+        }
+      ],
+      "still": null,
+      "transition_in": "smoothleft",
+      "xfade_duration_sec": 0.2,
+      "shock_flash_shake": false,
+      "sfx_cue": null,
+      "story_beat": "Haunted by society's stigma of his family's old bhaand past"
+    },
+    {
+      "beat_id": 62,
+      "part_number": 6,
+      "timeline_start_sec": 332.7,
+      "timeline_end_sec": 338.2,
+      "duration_sec": 5.5,
+      "visual_mode": "still",
+      "source_part": "part2",
+      "source_video": "part2_compressed.mp4",
+      "shots": [],
+      "still": {
+        "frame_timestamp_sec": 323.0,
+        "ken_burns_motion": "pan_right",
+        "zoom_range": [
+          1.0,
+          1.09
+        ]
+      },
+      "transition_in": "smoothleft",
+      "xfade_duration_sec": 0.2,
+      "shock_flash_shake": false,
+      "sfx_cue": "whoosh",
+      "story_beat": "Zareena laughing that Ibrahim is stubborn like Jooji"
+    },
+    {
+      "beat_id": 63,
+      "part_number": 6,
+      "timeline_start_sec": 338.2,
+      "timeline_end_sec": 343.6,
+      "duration_sec": 5.4,
+      "visual_mode": "clip",
+      "source_part": "part2",
+      "source_video": "part2_compressed.mp4",
+      "shots": [
+        {
+          "source_start_sec": 326,
+          "duration_sec": 2.7,
+          "mute_audio": true
+        },
+        {
+          "source_start_sec": 341.59,
+          "duration_sec": 2.7,
+          "mute_audio": true
+        }
+      ],
+      "still": null,
+      "transition_in": "zoomin",
+      "xfade_duration_sec": 0.2,
+      "shock_flash_shake": false,
+      "sfx_cue": "heartbeat",
+      "story_beat": "Zareena wishing she took Ibrahim to Wadde Sarkar for a blessing"
+    },
+    {
+      "beat_id": 64,
+      "part_number": 6,
+      "timeline_start_sec": 343.6,
+      "timeline_end_sec": 349.1,
+      "duration_sec": 5.5,
+      "visual_mode": "still",
+      "source_part": "part2",
+      "source_video": "part2_compressed.mp4",
+      "shots": [],
+      "still": {
+        "frame_timestamp_sec": 369.42,
+        "ken_burns_motion": "pan_left",
+        "zoom_range": [
+          1.0,
+          1.09
+        ]
+      },
+      "transition_in": "fade",
+      "xfade_duration_sec": 0.2,
+      "shock_flash_shake": false,
+      "sfx_cue": "whoosh",
+      "story_beat": "Inside Shah haveli: Elder Wadde Sarkar in black turban"
+    },
+    {
+      "beat_id": 65,
+      "part_number": 6,
+      "timeline_start_sec": 349.1,
+      "timeline_end_sec": 354.5,
+      "duration_sec": 5.4,
+      "visual_mode": "clip",
+      "source_part": "part2",
+      "source_video": "part2_compressed.mp4",
+      "shots": [
+        {
+          "source_start_sec": 384,
+          "duration_sec": 2.7,
+          "mute_audio": true
+        },
+        {
+          "source_start_sec": 398.91,
+          "duration_sec": 2.7,
+          "mute_audio": true
+        }
+      ],
+      "still": null,
+      "transition_in": "fade",
+      "xfade_duration_sec": 0.2,
+      "shock_flash_shake": false,
+      "sfx_cue": "riser",
+      "story_beat": "Wadde Sarkar praising the Shahs' devout new daughter-in-law"
+    },
+    {
+      "beat_id": 66,
+      "part_number": 6,
+      "timeline_start_sec": 354.5,
+      "timeline_end_sec": 360.0,
+      "duration_sec": 5.5,
+      "visual_mode": "still",
+      "source_part": "part2",
+      "source_video": "part2_compressed.mp4",
+      "shots": [],
+      "still": {
+        "frame_timestamp_sec": 440,
+        "ken_burns_motion": "zoom_in",
+        "zoom_range": [
+          1.0,
+          1.09
+        ]
+      },
+      "transition_in": "zoomin",
+      "xfade_duration_sec": 0.2,
+      "shock_flash_shake": false,
+      "sfx_cue": "whoosh",
+      "story_beat": "Warning: Heavy trials await those walking the spiritual path"
+    },
+    {
+      "beat_id": 67,
+      "part_number": 7,
+      "timeline_start_sec": 360.0,
+      "timeline_end_sec": 365.5,
+      "duration_sec": 5.5,
+      "visual_mode": "clip",
+      "source_part": "part2",
+      "source_video": "part2_compressed.mp4",
+      "shots": [
+        {
+          "source_start_sec": 398,
+          "duration_sec": 2.75,
+          "mute_audio": true
+        },
+        {
+          "source_start_sec": 404.63,
+          "duration_sec": 2.75,
+          "mute_audio": true
+        }
+      ],
+      "still": null,
+      "transition_in": "cut",
+      "xfade_duration_sec": 0.0,
+      "shock_flash_shake": false,
+      "sfx_cue": null,
+      "story_beat": "Back in Iqbal's courtyard: Zareena sharing neighborhood news"
+    },
+    {
+      "beat_id": 68,
+      "part_number": 7,
+      "timeline_start_sec": 365.5,
+      "timeline_end_sec": 370.9,
+      "duration_sec": 5.4,
+      "visual_mode": "still",
+      "source_part": "part2",
+      "source_video": "part2_compressed.mp4",
+      "shots": [],
+      "still": {
+        "frame_timestamp_sec": 429.18,
+        "ken_burns_motion": "zoom_out",
+        "zoom_range": [
+          1.0,
+          1.09
+        ]
+      },
+      "transition_in": "zoomin",
+      "xfade_duration_sec": 0.2,
+      "shock_flash_shake": true,
+      "sfx_cue": "bass_hit",
+      "story_beat": "BOMBSHELL: Zareena speaks the name Bilqees Bano from Wazirabad"
+    },
+    {
+      "beat_id": 69,
+      "part_number": 7,
+      "timeline_start_sec": 370.9,
+      "timeline_end_sec": 376.4,
+      "duration_sec": 5.5,
+      "visual_mode": "clip",
+      "source_part": "part2",
+      "source_video": "part2_compressed.mp4",
+      "shots": [
+        {
+          "source_start_sec": 422,
+          "duration_sec": 2.75,
+          "mute_audio": true
+        },
+        {
+          "source_start_sec": 434.35,
+          "duration_sec": 2.75,
+          "mute_audio": true
+        }
+      ],
+      "still": null,
+      "transition_in": "cut",
+      "xfade_duration_sec": 0.0,
+      "shock_flash_shake": false,
+      "sfx_cue": "heartbeat",
+      "story_beat": "Iqbal freezes completely, leaving his meal untouched"
+    },
+    {
+      "beat_id": 70,
+      "part_number": 7,
+      "timeline_start_sec": 376.4,
+      "timeline_end_sec": 381.8,
+      "duration_sec": 5.4,
+      "visual_mode": "still",
+      "source_part": "part2",
+      "source_video": "part2_compressed.mp4",
+      "shots": [],
+      "still": {
+        "frame_timestamp_sec": 439.34,
+        "ken_burns_motion": "pan_right",
+        "zoom_range": [
+          1.0,
+          1.09
+        ]
+      },
+      "transition_in": "fade",
+      "xfade_duration_sec": 0.2,
+      "shock_flash_shake": false,
+      "sfx_cue": "whoosh",
+      "story_beat": "Zareena watching in bewildered silence as Iqbal walks out"
+    },
+    {
+      "beat_id": 71,
+      "part_number": 7,
+      "timeline_start_sec": 381.8,
+      "timeline_end_sec": 387.3,
+      "duration_sec": 5.5,
+      "visual_mode": "clip",
+      "source_part": "part2",
+      "source_video": "part2_compressed.mp4",
+      "shots": [
+        {
+          "source_start_sec": 478,
+          "duration_sec": 2.75,
+          "mute_audio": true
+        },
+        {
+          "source_start_sec": 500.11,
+          "duration_sec": 2.75,
+          "mute_audio": true
+        }
+      ],
+      "still": null,
+      "transition_in": "cut",
+      "xfade_duration_sec": 0.0,
+      "shock_flash_shake": false,
+      "sfx_cue": null,
+      "story_beat": "Shaken to his core, Iqbal wanders the narrow old-city lanes"
+    },
+    {
+      "beat_id": 72,
+      "part_number": 7,
+      "timeline_start_sec": 387.3,
+      "timeline_end_sec": 392.7,
+      "duration_sec": 5.4,
+      "visual_mode": "still",
+      "source_part": "part2",
+      "source_video": "part2_compressed.mp4",
+      "shots": [],
+      "still": {
+        "frame_timestamp_sec": 532.48,
+        "ken_burns_motion": "pan_left",
+        "zoom_range": [
+          1.0,
+          1.09
+        ]
+      },
+      "transition_in": "smoothleft",
+      "xfade_duration_sec": 0.2,
+      "shock_flash_shake": false,
+      "sfx_cue": "whoosh",
+      "story_beat": "Echoes of Bilqees's name haunting every footstep"
+    },
+    {
+      "beat_id": 73,
+      "part_number": 7,
+      "timeline_start_sec": 392.7,
+      "timeline_end_sec": 398.2,
+      "duration_sec": 5.5,
+      "visual_mode": "clip",
+      "source_part": "part2",
+      "source_video": "part2_compressed.mp4",
+      "shots": [
+        {
+          "source_start_sec": 548,
+          "duration_sec": 2.75,
+          "mute_audio": true
+        },
+        {
+          "source_start_sec": 569.03,
+          "duration_sec": 2.75,
+          "mute_audio": true
+        }
+      ],
+      "still": null,
+      "transition_in": "cut",
+      "xfade_duration_sec": 0.0,
+      "shock_flash_shake": false,
+      "sfx_cue": "riser",
+      "story_beat": "Ahead in the quiet alley: A woman draped in pure white"
+    },
+    {
+      "beat_id": 74,
+      "part_number": 7,
+      "timeline_start_sec": 398.2,
+      "timeline_end_sec": 403.6,
+      "duration_sec": 5.4,
+      "visual_mode": "still",
+      "source_part": "part2",
+      "source_video": "part2_compressed.mp4",
+      "shots": [],
+      "still": {
+        "frame_timestamp_sec": 587.64,
+        "ken_burns_motion": "zoom_in",
+        "zoom_range": [
+          1.0,
+          1.09
+        ]
+      },
+      "transition_in": "zoomin",
+      "xfade_duration_sec": 0.2,
+      "shock_flash_shake": true,
+      "sfx_cue": "bass_hit",
+      "story_beat": "Figure in white stepping inside the Shah mansion gate"
+    },
+    {
+      "beat_id": 75,
+      "part_number": 7,
+      "timeline_start_sec": 403.6,
+      "timeline_end_sec": 409.1,
+      "duration_sec": 5.5,
+      "visual_mode": "clip",
+      "source_part": "part2",
+      "source_video": "part2_compressed.mp4",
+      "shots": [
+        {
+          "source_start_sec": 608,
+          "duration_sec": 2.75,
+          "mute_audio": true
+        },
+        {
+          "source_start_sec": 619.35,
+          "duration_sec": 2.75,
+          "mute_audio": true
+        }
+      ],
+      "still": null,
+      "transition_in": "cut",
+      "xfade_duration_sec": 0.0,
+      "shock_flash_shake": false,
+      "sfx_cue": "heartbeat",
+      "story_beat": "Iqbal standing frozen in the street staring upward"
+    },
+    {
+      "beat_id": 76,
+      "part_number": 7,
+      "timeline_start_sec": 409.1,
+      "timeline_end_sec": 414.5,
+      "duration_sec": 5.4,
+      "visual_mode": "still",
+      "source_part": "part2",
+      "source_video": "part2_compressed.mp4",
+      "shots": [],
+      "still": {
+        "frame_timestamp_sec": 637.26,
+        "ken_burns_motion": "zoom_out",
+        "zoom_range": [
+          1.0,
+          1.09
+        ]
+      },
+      "transition_in": "fade",
+      "xfade_duration_sec": 0.2,
+      "shock_flash_shake": false,
+      "sfx_cue": "whoosh",
+      "story_beat": "Inside the sunlit room: Bilqees adjusting her white dupatta"
+    },
+    {
+      "beat_id": 77,
+      "part_number": 7,
+      "timeline_start_sec": 414.5,
+      "timeline_end_sec": 420.0,
+      "duration_sec": 5.5,
+      "visual_mode": "clip",
+      "source_part": "part2",
+      "source_video": "part2_compressed.mp4",
+      "shots": [
+        {
+          "source_start_sec": 668,
+          "duration_sec": 2.75,
+          "mute_audio": true
+        },
+        {
+          "source_start_sec": 692.87,
+          "duration_sec": 2.75,
+          "mute_audio": true
+        }
+      ],
+      "still": null,
+      "transition_in": "cut",
+      "xfade_duration_sec": 0.0,
+      "shock_flash_shake": false,
+      "sfx_cue": "heartbeat",
+      "story_beat": "Silent distance between two souls separated by fate"
+    },
+    {
+      "beat_id": 78,
+      "part_number": 8,
+      "timeline_start_sec": 420.0,
+      "timeline_end_sec": 425.5,
+      "duration_sec": 5.5,
+      "visual_mode": "still",
+      "source_part": "part2",
+      "source_video": "part2_compressed.mp4",
+      "shots": [],
+      "still": {
+        "frame_timestamp_sec": 705.44,
+        "ken_burns_motion": "pan_right",
+        "zoom_range": [
+          1.0,
+          1.09
+        ]
+      },
+      "transition_in": "cut",
+      "xfade_duration_sec": 0.0,
+      "shock_flash_shake": false,
+      "sfx_cue": "riser",
+      "story_beat": "Inside Shah dining room: Husband Nazeer Shah sitting grim"
+    },
+    {
+      "beat_id": 79,
+      "part_number": 8,
+      "timeline_start_sec": 425.5,
+      "timeline_end_sec": 430.9,
+      "duration_sec": 5.4,
+      "visual_mode": "clip",
+      "source_part": "part2",
+      "source_video": "part2_compressed.mp4",
+      "shots": [
+        {
+          "source_start_sec": 718,
+          "duration_sec": 2.7,
+          "mute_audio": true
+        },
+        {
+          "source_start_sec": 724.39,
+          "duration_sec": 2.7,
+          "mute_audio": true
+        }
+      ],
+      "still": null,
+      "transition_in": "zoomin",
+      "xfade_duration_sec": 0.2,
+      "shock_flash_shake": true,
+      "sfx_cue": "bass_hit",
+      "story_beat": "TWIST: Tomorrow's wedding anniversary is Bilqees's brother's barsi"
+    },
+    {
+      "beat_id": 80,
+      "part_number": 8,
+      "timeline_start_sec": 430.9,
+      "timeline_end_sec": 436.4,
+      "duration_sec": 5.5,
+      "visual_mode": "still",
+      "source_part": "part2",
+      "source_video": "part2_compressed.mp4",
+      "shots": [],
+      "still": {
+        "frame_timestamp_sec": 726,
+        "ken_burns_motion": "pan_left",
+        "zoom_range": [
+          1.0,
+          1.09
+        ]
+      },
+      "transition_in": "cut",
+      "xfade_duration_sec": 0.0,
+      "shock_flash_shake": false,
+      "sfx_cue": "heartbeat",
+      "story_beat": "Nazeer Shah's chilling words connect love, honor, and blood"
+    },
+    {
+      "beat_id": 81,
+      "part_number": 8,
+      "timeline_start_sec": 436.4,
+      "timeline_end_sec": 441.8,
+      "duration_sec": 5.4,
+      "visual_mode": "clip",
+      "source_part": "part2",
+      "source_video": "part2_compressed.mp4",
+      "shots": [
+        {
+          "source_start_sec": 744,
+          "duration_sec": 2.7,
+          "mute_audio": true
+        },
+        {
+          "source_start_sec": 747.55,
+          "duration_sec": 2.7,
+          "mute_audio": true
+        }
+      ],
+      "still": null,
+      "transition_in": "fade",
+      "xfade_duration_sec": 0.2,
+      "shock_flash_shake": false,
+      "sfx_cue": "whoosh",
+      "story_beat": "Night falls over the silent courtyard as Iqbal returns home"
+    },
+    {
+      "beat_id": 82,
+      "part_number": 8,
+      "timeline_start_sec": 441.8,
+      "timeline_end_sec": 447.3,
+      "duration_sec": 5.5,
+      "visual_mode": "still",
+      "source_part": "part2",
+      "source_video": "part2_compressed.mp4",
+      "shots": [],
+      "still": {
+        "frame_timestamp_sec": 779.24,
+        "ken_burns_motion": "zoom_in",
+        "zoom_range": [
+          1.0,
+          1.09
+        ]
+      },
+      "transition_in": "cut",
+      "xfade_duration_sec": 0.0,
+      "shock_flash_shake": false,
+      "sfx_cue": "whoosh",
+      "story_beat": "Iqbal looking quietly at sleeping Zareena and his child"
+    },
+    {
+      "beat_id": 83,
+      "part_number": 8,
+      "timeline_start_sec": 447.3,
+      "timeline_end_sec": 452.7,
+      "duration_sec": 5.4,
+      "visual_mode": "clip",
+      "source_part": "part2",
+      "source_video": "part2_compressed.mp4",
+      "shots": [
+        {
+          "source_start_sec": 792,
+          "duration_sec": 2.7,
+          "mute_audio": true
+        },
+        {
+          "source_start_sec": 797.51,
+          "duration_sec": 2.7,
+          "mute_audio": true
+        }
+      ],
+      "still": null,
+      "transition_in": "smoothleft",
+      "xfade_duration_sec": 0.2,
+      "shock_flash_shake": false,
+      "sfx_cue": "whoosh",
+      "story_beat": "Restless storm outside as Iqbal steps onto the dark balcony"
+    },
+    {
+      "beat_id": 84,
+      "part_number": 8,
+      "timeline_start_sec": 452.7,
+      "timeline_end_sec": 458.2,
+      "duration_sec": 5.5,
+      "visual_mode": "still",
+      "source_part": "part2",
+      "source_video": "part2_compressed.mp4",
+      "shots": [],
+      "still": {
+        "frame_timestamp_sec": 819.0,
+        "ken_burns_motion": "zoom_out",
+        "zoom_range": [
+          1.0,
+          1.09
+        ]
+      },
+      "transition_in": "cut",
+      "xfade_duration_sec": 0.0,
+      "shock_flash_shake": false,
+      "sfx_cue": "heartbeat",
+      "story_beat": "Lonely silhouette in the dark night haunted by memories"
+    },
+    {
+      "beat_id": 85,
+      "part_number": 8,
+      "timeline_start_sec": 458.2,
+      "timeline_end_sec": 463.6,
+      "duration_sec": 5.4,
+      "visual_mode": "clip",
+      "source_part": "part2",
+      "source_video": "part2_compressed.mp4",
+      "shots": [
+        {
+          "source_start_sec": 840,
+          "duration_sec": 2.7,
+          "mute_audio": true
+        },
+        {
+          "source_start_sec": 844.2,
+          "duration_sec": 2.7,
+          "mute_audio": true
+        }
+      ],
+      "still": null,
+      "transition_in": "fade",
+      "xfade_duration_sec": 0.2,
+      "shock_flash_shake": false,
+      "sfx_cue": "whoosh",
+      "story_beat": "Flashback memory: Young Billo and Baala from Wazirabad"
+    },
+    {
+      "beat_id": 86,
+      "part_number": 8,
+      "timeline_start_sec": 463.6,
+      "timeline_end_sec": 469.1,
+      "duration_sec": 5.5,
+      "visual_mode": "still",
+      "source_part": "part2",
+      "source_video": "part2_compressed.mp4",
+      "shots": [],
+      "still": {
+        "frame_timestamp_sec": 874.28,
+        "ken_burns_motion": "pan_right",
+        "zoom_range": [
+          1.0,
+          1.09
+        ]
+      },
+      "transition_in": "cut",
+      "xfade_duration_sec": 0.0,
+      "shock_flash_shake": false,
+      "sfx_cue": "riser",
+      "story_beat": "Innocent smiles of youth shattered by pride and tragedy"
+    },
+    {
+      "beat_id": 87,
+      "part_number": 8,
+      "timeline_start_sec": 469.1,
+      "timeline_end_sec": 474.5,
+      "duration_sec": 5.4,
+      "visual_mode": "clip",
+      "source_part": "part2",
+      "source_video": "part2_compressed.mp4",
+      "shots": [
+        {
+          "source_start_sec": 892,
+          "duration_sec": 2.7,
+          "mute_audio": true
+        },
+        {
+          "source_start_sec": 896.2,
+          "duration_sec": 2.7,
+          "mute_audio": true
+        }
+      ],
+      "still": null,
+      "transition_in": "zoomin",
+      "xfade_duration_sec": 0.2,
+      "shock_flash_shake": true,
+      "sfx_cue": "bass_hit",
+      "story_beat": "Burning eyes of Baala — the quiet love turns to fire"
+    },
+    {
+      "beat_id": 88,
+      "part_number": 8,
+      "timeline_start_sec": 474.5,
+      "timeline_end_sec": 480.0,
+      "duration_sec": 5.5,
+      "visual_mode": "still",
+      "source_part": "part2",
+      "source_video": "part2_compressed.mp4",
+      "shots": [],
+      "still": {
+        "frame_timestamp_sec": 955.92,
+        "ken_burns_motion": "pan_left",
+        "zoom_range": [
+          1.0,
+          1.09
+        ]
+      },
+      "transition_in": "fade",
+      "xfade_duration_sec": 0.2,
+      "shock_flash_shake": true,
+      "sfx_cue": "bass_hit",
+      "story_beat": "Cliffhanger: Ghostly Billo in white beside Baala's tormented gaze"
+    }
+  ]
+}

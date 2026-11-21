@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.venv/
+FINAL_YOUTUBE_VIDEO.mp4
+elevenlabs_audio/*.mp3

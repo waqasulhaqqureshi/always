@@ -1,0 +1,36 @@
+{
+  "episode_title": "Mitti De Baway - Episode 1",
+  "leads": {
+    "Billo": "Mahira Khan",
+    "Baala": "Wahaj Ali"
+  },
+  "parts": [
+    {
+      "filename": "part1_compressed.mp4",
+      "size_bytes": 70511768,
+      "size_mb": 67.25,
+      "duration_sec": 959.76,
+      "width": 854,
+      "height": 450,
+      "fps": 25.0,
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "audio_sample_rate": 44100,
+      "part": "part1"
+    },
+    {
+      "filename": "part2_compressed.mp4",
+      "size_bytes": 51247105,
+      "size_mb": 48.87,
+      "duration_sec": 959.695,
+      "width": 854,
+      "height": 450,
+      "fps": 25.0,
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "audio_sample_rate": 44100,
+      "part": "part2"
+    }
+  ],
+  "total_duration_sec": 1919.455
+}

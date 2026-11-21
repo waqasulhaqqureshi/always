@@ -1,0 +1,252 @@
+{
+  "part": "part1",
+  "source_video": "part1_compressed.mp4",
+  "duration_sec": 959.76,
+  "language": "ur",
+  "language_probability": 1.0,
+  "model": "faster-whisper-small-int8",
+  "elapsed_sec": 27.33,
+  "segment_count": 30,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 29.01,
+      "text": "حید سے عردی پار جنامدت سے قدیا",
+      "avg_logprob": -0.49,
+      "no_speech_prob": 0.238
+    },
+    {
+      "id": 1,
+      "start": 29.01,
+      "end": 37.94,
+      "text": "پنجاب کی مٹی بڑی ذرخیز ہے",
+      "avg_logprob": -0.49,
+      "no_speech_prob": 0.238
+    },
+    {
+      "id": 2,
+      "start": 39.07,
+      "end": 42.91,
+      "text": "حریالی میں بھی اور خون کی لالی میں بھی",
+      "avg_logprob": -0.49,
+      "no_speech_prob": 0.238
+    },
+    {
+      "id": 3,
+      "start": 44.18,
+      "end": 47.14,
+      "text": "یہاں اشکی داستان نے بھی جنام لیتی ہے",
+      "avg_logprob": -0.49,
+      "no_speech_prob": 0.238
+    },
+    {
+      "id": 4,
+      "start": 48.23,
+      "end": 49.75,
+      "text": "اور دشمن دارنا میں",
+      "avg_logprob": -0.49,
+      "no_speech_prob": 0.238
+    },
+    {
+      "id": 5,
+      "start": 51.25,
+      "end": 53.49,
+      "text": "محبت ہو یا نفرت",
+      "avg_logprob": -0.49,
+      "no_speech_prob": 0.238
+    },
+    {
+      "id": 6,
+      "start": 54.9,
+      "end": 56.5,
+      "text": "دل سے نبای جاتی ہے",
+      "avg_logprob": -0.49,
+      "no_speech_prob": 0.238
+    },
+    {
+      "id": 7,
+      "start": 56.78,
+      "end": 378.44,
+      "text": "وہ آگے جو جی",
+      "avg_logprob": -0.49,
+      "no_speech_prob": 0.238
+    },
+    {
+      "id": 8,
+      "start": 378.44,
+      "end": 382.27,
+      "text": "چلا بس کے پاسل ہے کہ نہیں ہوسکتا",
+      "avg_logprob": -0.545,
+      "no_speech_prob": 0.004
+    },
+    {
+      "id": 9,
+      "start": 382.27,
+      "end": 407.04,
+      "text": "ترکے بات ہے",
+      "avg_logprob": -0.545,
+      "no_speech_prob": 0.004
+    },
+    {
+      "id": 10,
+      "start": 407.24,
+      "end": 466.4,
+      "text": "واپس لے جا",
+      "avg_logprob": -0.545,
+      "no_speech_prob": 0.004
+    },
+    {
+      "id": 11,
+      "start": 469.22,
+      "end": 470.42,
+      "text": "مننت تروزہ ہے",
+      "avg_logprob": -0.545,
+      "no_speech_prob": 0.004
+    },
+    {
+      "id": 12,
+      "start": 471.3,
+      "end": 473.02,
+      "text": "مننت توری ہونے پہ کھولا کا",
+      "avg_logprob": -0.545,
+      "no_speech_prob": 0.004
+    },
+    {
+      "id": 13,
+      "start": 550.55,
+      "end": 551.47,
+      "text": "پائن آپ جاکا",
+      "avg_logprob": -0.545,
+      "no_speech_prob": 0.004
+    },
+    {
+      "id": 14,
+      "start": 551.47,
+      "end": 552.27,
+      "text": "مجھے",
+      "avg_logprob": -0.545,
+      "no_speech_prob": 0.004
+    },
+    {
+      "id": 15,
+      "start": 573.74,
+      "end": 575.46,
+      "text": "پائن کسی کٹڑیچے بڑھا سنے پڑھا ناکے",
+      "avg_logprob": -0.545,
+      "no_speech_prob": 0.004
+    },
+    {
+      "id": 16,
+      "start": 699.82,
+      "end": 700.7,
+      "text": "کڑے آا",
+      "avg_logprob": -0.545,
+      "no_speech_prob": 0.004
+    },
+    {
+      "id": 17,
+      "start": 700.7,
+      "end": 929.15,
+      "text": "بادہ یاد انہیں ایک پال جی",
+      "avg_logprob": -0.545,
+      "no_speech_prob": 0.004
+    },
+    {
+      "id": 18,
+      "start": 929.63,
+      "end": 931.67,
+      "text": "مجھے پورے چارتہ لے کے کڑے چاہئے",
+      "avg_logprob": -0.545,
+      "no_speech_prob": 0.004
+    },
+    {
+      "id": 19,
+      "start": 933.49,
+      "end": 934.53,
+      "text": "ہاں بھی یاد ہے",
+      "avg_logprob": -0.545,
+      "no_speech_prob": 0.004
+    },
+    {
+      "id": 20,
+      "start": 934.69,
+      "end": 936.53,
+      "text": "کوسر کے نگاہ کی تاریخ پکی ہو جائے",
+      "avg_logprob": -0.545,
+      "no_speech_prob": 0.004
+    },
+    {
+      "id": 21,
+      "start": 937.32,
+      "end": 938.8,
+      "text": "اس لے زیبناوں کے سات بن جائیں گے",
+      "avg_logprob": -0.545,
+      "no_speech_prob": 0.004
+    },
+    {
+      "id": 22,
+      "start": 938.8,
+      "end": 943.47,
+      "text": "مجھے تو ہمیشہ بہن بائیوں کے چھونگے میں دیا جب بھی کش دیا ہے",
+      "avg_logprob": -0.413,
+      "no_speech_prob": 0.03
+    },
+    {
+      "id": 23,
+      "start": 943.47,
+      "end": 947.18,
+      "text": "تو کیا تیرے چھونگے سے پالو میں ان بائی؟",
+      "avg_logprob": -0.413,
+      "no_speech_prob": 0.03
+    },
+    {
+      "id": 24,
+      "start": 947.18,
+      "end": 950.22,
+      "text": "تیرہ میں صرف شہوروں",
+      "avg_logprob": -0.413,
+      "no_speech_prob": 0.03
+    },
+    {
+      "id": 25,
+      "start": 950.22,
+      "end": 952.34,
+      "text": "ان کا میں مہ بھیوں پیو بھیوں",
+      "avg_logprob": -0.413,
+      "no_speech_prob": 0.03
+    },
+    {
+      "id": 26,
+      "start": 952.34,
+      "end": 954.14,
+      "text": "اجو کچھ بھی ہے نا مرے پاس",
+      "avg_logprob": -0.413,
+      "no_speech_prob": 0.03
+    },
+    {
+      "id": 27,
+      "start": 954.14,
+      "end": 956.54,
+      "text": "اس میں مرے پہن بائیوں کا بڑا عمل دخل ہے",
+      "avg_logprob": -0.413,
+      "no_speech_prob": 0.03
+    },
+    {
+      "id": 28,
+      "start": 956.54,
+      "end": 958.38,
+      "text": "کوہ سر کی عمر گزر گئی",
+      "avg_logprob": -0.413,
+      "no_speech_prob": 0.03
+    },
+    {
+      "id": 29,
+      "start": 958.38,
+      "end": 959.7,
+      "text": "ابھی تک گھر بیٹھی ہے",
+      "avg_logprob": -0.413,
+      "no_speech_prob": 0.03
+    }
+  ]
+}

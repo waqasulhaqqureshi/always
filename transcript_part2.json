@@ -1,0 +1,1204 @@
+{
+  "part": "part2",
+  "source_video": "part2_compressed.mp4",
+  "duration_sec": 959.695,
+  "language": "ur",
+  "language_probability": 1.0,
+  "model": "faster-whisper-small-int8",
+  "elapsed_sec": 143.79,
+  "segment_count": 149,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.24,
+      "end": 2.04,
+      "text": "ہر حال میں ساتھ دیا اس نے میرا",
+      "avg_logprob": -0.471,
+      "no_speech_prob": 0.038
+    },
+    {
+      "id": 1,
+      "start": 2.64,
+      "end": 3.24,
+      "text": "تمجھی؟",
+      "avg_logprob": -0.471,
+      "no_speech_prob": 0.038
+    },
+    {
+      "id": 2,
+      "start": 5.05,
+      "end": 6.25,
+      "text": "جی سمجھ گئی",
+      "avg_logprob": -0.471,
+      "no_speech_prob": 0.038
+    },
+    {
+      "id": 3,
+      "start": 16.98,
+      "end": 18.78,
+      "text": "بہنی کے وقتہ دماغہ رابنا گار",
+      "avg_logprob": -0.471,
+      "no_speech_prob": 0.038
+    },
+    {
+      "id": 4,
+      "start": 19.18,
+      "end": 22.18,
+      "text": "اچھی طرح یادہ مجھے پائنے پہلی طریقہ سارے پیسے بجباتی ہے",
+      "avg_logprob": -0.471,
+      "no_speech_prob": 0.038
+    },
+    {
+      "id": 5,
+      "start": 22.38,
+      "end": 23.58,
+      "text": "اب کیا لے نے آئے ہو؟",
+      "avg_logprob": -0.471,
+      "no_speech_prob": 0.038
+    },
+    {
+      "id": 6,
+      "start": 23.78,
+      "end": 24.58,
+      "text": "نا",
+      "avg_logprob": -0.471,
+      "no_speech_prob": 0.038
+    },
+    {
+      "id": 7,
+      "start": 24.98,
+      "end": 26.98,
+      "text": "کاک پہلی کے پہلی آتے ہیں",
+      "avg_logprob": -0.471,
+      "no_speech_prob": 0.038
+    },
+    {
+      "id": 8,
+      "start": 27.38,
+      "end": 31.38,
+      "text": "اشال می اور بلا لگنج راک پہلی کو جاتنے ہے تمہارے",
+      "avg_logprob": -0.471,
+      "no_speech_prob": 0.038
+    },
+    {
+      "id": 9,
+      "start": 31.78,
+      "end": 33.78,
+      "text": "کمائیاں سارے مینے",
+      "avg_logprob": -0.471,
+      "no_speech_prob": 0.038
+    },
+    {
+      "id": 10,
+      "start": 33.78,
+      "end": 36.58,
+      "text": "تلائیاں صرف پہلی دی پہلی",
+      "avg_logprob": -0.471,
+      "no_speech_prob": 0.038
+    },
+    {
+      "id": 11,
+      "start": 36.78,
+      "end": 38.98,
+      "text": "تو اور کیا سارا مینہ تم لوگ ہی پر ترے",
+      "avg_logprob": -0.471,
+      "no_speech_prob": 0.038
+    },
+    {
+      "id": 12,
+      "start": 39.18,
+      "end": 39.78,
+      "text": "ہی",
+      "avg_logprob": -0.471,
+      "no_speech_prob": 0.038
+    },
+    {
+      "id": 13,
+      "start": 39.78,
+      "end": 43.38,
+      "text": "ہر آم کھانے کی عادت لگ گئیتا تو",
+      "avg_logprob": -0.552,
+      "no_speech_prob": 0.117
+    },
+    {
+      "id": 14,
+      "start": 43.38,
+      "end": 45.38,
+      "text": "بہتا نہ بول",
+      "avg_logprob": -0.552,
+      "no_speech_prob": 0.117
+    },
+    {
+      "id": 15,
+      "start": 45.38,
+      "end": 47.38,
+      "text": "نی تو دو چی لگ تو بھی چاہیں گا",
+      "avg_logprob": -0.552,
+      "no_speech_prob": 0.117
+    },
+    {
+      "id": 16,
+      "start": 47.38,
+      "end": 48.38,
+      "text": "اتا جاہیں گا",
+      "avg_logprob": -0.552,
+      "no_speech_prob": 0.117
+    },
+    {
+      "id": 17,
+      "start": 48.38,
+      "end": 49.38,
+      "text": "اتا ساکنی با",
+      "avg_logprob": -0.552,
+      "no_speech_prob": 0.117
+    },
+    {
+      "id": 18,
+      "start": 49.38,
+      "end": 50.38,
+      "text": "اتا ساکنی با",
+      "avg_logprob": -0.552,
+      "no_speech_prob": 0.117
+    },
+    {
+      "id": 19,
+      "start": 50.38,
+      "end": 51.38,
+      "text": "اتا ساکنی با",
+      "avg_logprob": -0.552,
+      "no_speech_prob": 0.117
+    },
+    {
+      "id": 20,
+      "start": 51.38,
+      "end": 55.9,
+      "text": "اتا ساکنی با",
+      "avg_logprob": -0.552,
+      "no_speech_prob": 0.117
+    },
+    {
+      "id": 21,
+      "start": 55.9,
+      "end": 56.9,
+      "text": "چھٹو پہن",
+      "avg_logprob": -0.552,
+      "no_speech_prob": 0.117
+    },
+    {
+      "id": 22,
+      "start": 56.9,
+      "end": 57.9,
+      "text": "بچا ہے",
+      "avg_logprob": -0.552,
+      "no_speech_prob": 0.117
+    },
+    {
+      "id": 23,
+      "start": 57.9,
+      "end": 59.22,
+      "text": "میرنال گال کرو",
+      "avg_logprob": -0.552,
+      "no_speech_prob": 0.117
+    },
+    {
+      "id": 24,
+      "start": 59.22,
+      "end": 61.22,
+      "text": "گلتے لیا کے گلنابزا لیا نا",
+      "avg_logprob": -0.552,
+      "no_speech_prob": 0.117
+    },
+    {
+      "id": 25,
+      "start": 61.22,
+      "end": 65.02,
+      "text": "میں نو دستو کی چاہی دا ہے",
+      "avg_logprob": -0.552,
+      "no_speech_prob": 0.117
+    },
+    {
+      "id": 26,
+      "start": 65.02,
+      "end": 67.02,
+      "text": "دے ریا کے پشل ہے",
+      "avg_logprob": -0.552,
+      "no_speech_prob": 0.117
+    },
+    {
+      "id": 27,
+      "start": 67.02,
+      "end": 68.02,
+      "text": "لوال ہے حاضری",
+      "avg_logprob": -0.552,
+      "no_speech_prob": 0.117
+    },
+    {
+      "id": 28,
+      "start": 68.24,
+      "end": 69.24,
+      "text": "یا",
+      "avg_logprob": -0.552,
+      "no_speech_prob": 0.117
+    },
+    {
+      "id": 29,
+      "start": 69.24,
+      "end": 71.53,
+      "text": "بہت بڑا ہو گئے ہیں توں",
+      "avg_logprob": -0.552,
+      "no_speech_prob": 0.117
+    },
+    {
+      "id": 30,
+      "start": 71.53,
+      "end": 73.53,
+      "text": "اور نہیں پایز",
+      "avg_logprob": -0.552,
+      "no_speech_prob": 0.117
+    },
+    {
+      "id": 31,
+      "start": 73.53,
+      "end": 75.17,
+      "text": "آپ سے بڑھے تو نہیں ہو سکتے نا",
+      "avg_logprob": -0.499,
+      "no_speech_prob": 0.01
+    },
+    {
+      "id": 32,
+      "start": 75.81,
+      "end": 76.85,
+      "text": "میں خدا زر ہوتا ہوں",
+      "avg_logprob": -0.499,
+      "no_speech_prob": 0.01
+    },
+    {
+      "id": 33,
+      "start": 77.78,
+      "end": 78.98,
+      "text": "ان سے گئے تصالی رکھلی",
+      "avg_logprob": -0.499,
+      "no_speech_prob": 0.01
+    },
+    {
+      "id": 34,
+      "start": 86.46,
+      "end": 88.58,
+      "text": "پائنوں دے پچھے تو اسی منو چھاٹے گاٹے ماری یہ",
+      "avg_logprob": -0.499,
+      "no_speech_prob": 0.01
+    },
+    {
+      "id": 35,
+      "start": 91.67,
+      "end": 94.15,
+      "text": "کارو بار کرنے بیٹھیں ایدر بدماشیہ نہیں",
+      "avg_logprob": -0.499,
+      "no_speech_prob": 0.01
+    },
+    {
+      "id": 36,
+      "start": 95.19,
+      "end": 97.07,
+      "text": "بہتہ کڑے نے ترین در بدماشہ نے گدہ",
+      "avg_logprob": -0.499,
+      "no_speech_prob": 0.01
+    },
+    {
+      "id": 37,
+      "start": 97.59,
+      "end": 99.19,
+      "text": "ان کا بھی تو موکھلتا جا رہا پائن",
+      "avg_logprob": -0.499,
+      "no_speech_prob": 0.01
+    },
+    {
+      "id": 38,
+      "start": 100.02,
+      "end": 101.42,
+      "text": "کوصر بای جی کی شادی کرنے کیا",
+      "avg_logprob": -0.499,
+      "no_speech_prob": 0.01
+    },
+    {
+      "id": 39,
+      "start": 102.35,
+      "end": 104.11,
+      "text": "آپ میں پر جائے نہیں سال حجبے جانا ہے",
+      "avg_logprob": -0.499,
+      "no_speech_prob": 0.01
+    },
+    {
+      "id": 40,
+      "start": 105.38,
+      "end": 107.54,
+      "text": "سارا پیسہ انہر آمزاہ تو بھی لٹا دیں",
+      "avg_logprob": -0.499,
+      "no_speech_prob": 0.01
+    },
+    {
+      "id": 41,
+      "start": 107.54,
+      "end": 110.46,
+      "text": "مجھے مجھے ویر بھی تو نہیں لے سکتے نا",
+      "avg_logprob": -0.426,
+      "no_speech_prob": 0.05
+    },
+    {
+      "id": 42,
+      "start": 110.46,
+      "end": 117.71,
+      "text": "یہو ہے کامتے لگو",
+      "avg_logprob": -0.426,
+      "no_speech_prob": 0.05
+    },
+    {
+      "id": 43,
+      "start": 117.71,
+      "end": 127.15,
+      "text": "شکرہ آپ ساتھ تھی",
+      "avg_logprob": -0.426,
+      "no_speech_prob": 0.05
+    },
+    {
+      "id": 44,
+      "start": 127.15,
+      "end": 129.67,
+      "text": "ابراہم کی بھی میں نے دو چار چیزے خریت لی ہے",
+      "avg_logprob": -0.426,
+      "no_speech_prob": 0.05
+    },
+    {
+      "id": 45,
+      "start": 129.67,
+      "end": 130.87,
+      "text": "آپ کو تو باتا ہے",
+      "avg_logprob": -0.426,
+      "no_speech_prob": 0.05
+    },
+    {
+      "id": 46,
+      "start": 130.87,
+      "end": 133.31,
+      "text": "اکلے نا مجھے ایک چیز نہیں خریت دی جاتی",
+      "avg_logprob": -0.426,
+      "no_speech_prob": 0.05
+    },
+    {
+      "id": 47,
+      "start": 133.31,
+      "end": 134.79,
+      "text": "دنزن کے جاؤ گی نا",
+      "avg_logprob": -0.426,
+      "no_speech_prob": 0.05
+    },
+    {
+      "id": 48,
+      "start": 134.79,
+      "end": 136.47,
+      "text": "تو مجھے بھی ساتھ لیتی جانا",
+      "avg_logprob": -0.426,
+      "no_speech_prob": 0.05
+    },
+    {
+      "id": 49,
+      "start": 137.03,
+      "end": 138.74,
+      "text": "مجھے بھی سوٹ سلوانا ہے",
+      "avg_logprob": -0.426,
+      "no_speech_prob": 0.05
+    },
+    {
+      "id": 50,
+      "start": 138.74,
+      "end": 140.34,
+      "text": "بس ٹھیک ہے جاتا دکھ میں آپ کو بتا دوں",
+      "avg_logprob": -0.426,
+      "no_speech_prob": 0.05
+    },
+    {
+      "id": 51,
+      "start": 140.34,
+      "end": 141.34,
+      "text": "ٹھیک ہے",
+      "avg_logprob": -0.426,
+      "no_speech_prob": 0.05
+    },
+    {
+      "id": 52,
+      "start": 141.34,
+      "end": 142.1,
+      "text": "چلے اللہ آپ",
+      "avg_logprob": -0.426,
+      "no_speech_prob": 0.05
+    },
+    {
+      "id": 53,
+      "start": 142.1,
+      "end": 143.3,
+      "text": "اللہ فیس",
+      "avg_logprob": -0.426,
+      "no_speech_prob": 0.05
+    },
+    {
+      "id": 54,
+      "start": 143.78,
+      "end": 150.31,
+      "text": "سنو با جی",
+      "avg_logprob": -0.426,
+      "no_speech_prob": 0.05
+    },
+    {
+      "id": 55,
+      "start": 150.31,
+      "end": 152.81,
+      "text": "بای جی، یہ ان کے گھر کون آئے؟",
+      "avg_logprob": -0.422,
+      "no_speech_prob": 0.096
+    },
+    {
+      "id": 56,
+      "start": 154.67,
+      "end": 160.07,
+      "text": "آی اللہ، مجھے یاد نہیں رہا، بڑے شاہ سب کی سناری آئی ہوئی گا ہے",
+      "avg_logprob": -0.422,
+      "no_speech_prob": 0.096
+    },
+    {
+      "id": 57,
+      "start": 160.51,
+      "end": 163.63,
+      "text": "سوچا تھا کہ نسیم کی حاضری لگوا دوں گی",
+      "avg_logprob": -0.422,
+      "no_speech_prob": 0.096
+    },
+    {
+      "id": 58,
+      "start": 164.23,
+      "end": 166.55,
+      "text": "کوئی اچھا رشتہ مل جی، ان سے دوہا کروالوں",
+      "avg_logprob": -0.422,
+      "no_speech_prob": 0.096
+    },
+    {
+      "id": 59,
+      "start": 167.66,
+      "end": 174.35,
+      "text": "نسیم، نسیم، جلدی سے بیٹا مزوک اگلے، چاہتا لے لے",
+      "avg_logprob": -0.422,
+      "no_speech_prob": 0.096
+    },
+    {
+      "id": 60,
+      "start": 175.1,
+      "end": 176.26,
+      "text": "جلدی آجا بیٹا",
+      "avg_logprob": -0.422,
+      "no_speech_prob": 0.096
+    },
+    {
+      "id": 61,
+      "start": 194.53,
+      "end": 198.33,
+      "text": "بای جی، جلدی سے چلے پر روٹی دال دے، ایک پال جی آگا ہے",
+      "avg_logprob": -0.422,
+      "no_speech_prob": 0.096
+    },
+    {
+      "id": 62,
+      "start": 198.33,
+      "end": 200.73,
+      "text": "سرائیہ کہا ہے سرائیہ",
+      "avg_logprob": -0.603,
+      "no_speech_prob": 0.211
+    },
+    {
+      "id": 63,
+      "start": 200.73,
+      "end": 204.52,
+      "text": "سرائیہ",
+      "avg_logprob": -0.603,
+      "no_speech_prob": 0.211
+    },
+    {
+      "id": 64,
+      "start": 204.52,
+      "end": 205.92,
+      "text": "جی جی بھا جی آئی",
+      "avg_logprob": -0.603,
+      "no_speech_prob": 0.211
+    },
+    {
+      "id": 65,
+      "start": 205.92,
+      "end": 207.4,
+      "text": "وہ بھا پہ کیا تری ہے",
+      "avg_logprob": -0.603,
+      "no_speech_prob": 0.211
+    },
+    {
+      "id": 66,
+      "start": 207.4,
+      "end": 208.92,
+      "text": "چیتینی سے آکے مجیدہ",
+      "avg_logprob": -0.603,
+      "no_speech_prob": 0.211
+    },
+    {
+      "id": 67,
+      "start": 208.92,
+      "end": 210.0,
+      "text": "ایکبال جی آگئے ہیں",
+      "avg_logprob": -0.603,
+      "no_speech_prob": 0.211
+    },
+    {
+      "id": 68,
+      "start": 210.0,
+      "end": 211.0,
+      "text": "آگے آگے بھا جی",
+      "avg_logprob": -0.603,
+      "no_speech_prob": 0.211
+    },
+    {
+      "id": 69,
+      "start": 211.0,
+      "end": 212.0,
+      "text": "چار فٹا فٹا ہو جا",
+      "avg_logprob": -0.603,
+      "no_speech_prob": 0.211
+    },
+    {
+      "id": 70,
+      "start": 212.0,
+      "end": 232.32,
+      "text": "سیترا بچھا",
+      "avg_logprob": -0.603,
+      "no_speech_prob": 0.211
+    },
+    {
+      "id": 71,
+      "start": 232.32,
+      "end": 235.43,
+      "text": "اصلہ امیڈکو ایکبال جی",
+      "avg_logprob": -0.603,
+      "no_speech_prob": 0.211
+    },
+    {
+      "id": 72,
+      "start": 235.43,
+      "end": 237.28,
+      "text": "بہترین بسلہا",
+      "avg_logprob": -0.603,
+      "no_speech_prob": 0.211
+    },
+    {
+      "id": 73,
+      "start": 237.28,
+      "end": 245.95,
+      "text": "ابراہیم فٹی بھی دیکھ رہا ہے",
+      "avg_logprob": -0.603,
+      "no_speech_prob": 0.211
+    },
+    {
+      "id": 74,
+      "start": 245.95,
+      "end": 249.39,
+      "text": "منقرہ کر دیکھا لا",
+      "avg_logprob": -0.603,
+      "no_speech_prob": 0.211
+    },
+    {
+      "id": 75,
+      "start": 249.39,
+      "end": 250.7,
+      "text": "میں",
+      "avg_logprob": -0.603,
+      "no_speech_prob": 0.211
+    },
+    {
+      "id": 76,
+      "start": 250.7,
+      "end": 251.7,
+      "text": "کہتیو",
+      "avg_logprob": -0.603,
+      "no_speech_prob": 0.211
+    },
+    {
+      "id": 77,
+      "start": 251.7,
+      "end": 254.7,
+      "text": "ابراہیم بتمیز نا ہوئی تے کیا کر رہا ہے اندر",
+      "avg_logprob": -0.603,
+      "no_speech_prob": 0.211
+    },
+    {
+      "id": 78,
+      "start": 255.08,
+      "end": 263.73,
+      "text": "ایبرا ہیم ابو آیا تو پھر گانے سن رہا ہے",
+      "avg_logprob": -1.072,
+      "no_speech_prob": 0.167
+    },
+    {
+      "id": 79,
+      "start": 263.73,
+      "end": 267.01,
+      "text": "چال اٹھتک، کمن میں چل کے طابق ہوگة صبح کیات کر",
+      "avg_logprob": -1.072,
+      "no_speech_prob": 0.167
+    },
+    {
+      "id": 80,
+      "start": 267.05,
+      "end": 268.05,
+      "text": "میں آریوں چلا",
+      "avg_logprob": -1.072,
+      "no_speech_prob": 0.167
+    },
+    {
+      "id": 81,
+      "start": 268.09,
+      "end": 278.96,
+      "text": "اس بھی دیکھیں",
+      "avg_logprob": -1.072,
+      "no_speech_prob": 0.167
+    },
+    {
+      "id": 82,
+      "start": 279.0,
+      "end": 287.08,
+      "text": "خون مولئی ٹی ویڈی تین",
+      "avg_logprob": -1.072,
+      "no_speech_prob": 0.167
+    },
+    {
+      "id": 83,
+      "start": 287.12,
+      "end": 289.7,
+      "text": "اور کوئی اللہ عرصور کا ناس قائح سے",
+      "avg_logprob": -1.072,
+      "no_speech_prob": 0.167
+    },
+    {
+      "id": 84,
+      "start": 289.74,
+      "end": 292.3,
+      "text": "کسی کام پر لگ جیا تو لو کہیں گے",
+      "avg_logprob": -1.072,
+      "no_speech_prob": 0.167
+    },
+    {
+      "id": 85,
+      "start": 292.34,
+      "end": 295.1,
+      "text": "ایک بالچناند کاپوتر غادہ وجانا کرتا",
+      "avg_logprob": -1.072,
+      "no_speech_prob": 0.167
+    },
+    {
+      "id": 86,
+      "start": 295.14,
+      "end": 297.26,
+      "text": "سلام علیکم",
+      "avg_logprob": -1.072,
+      "no_speech_prob": 0.167
+    },
+    {
+      "id": 87,
+      "start": 297.3,
+      "end": 299.6,
+      "text": "والیکوم السلام",
+      "avg_logprob": -1.072,
+      "no_speech_prob": 0.167
+    },
+    {
+      "id": 88,
+      "start": 299.64,
+      "end": 309.76,
+      "text": "یہ جو ایbرا ہیم ان آپ کاپوتر",
+      "avg_logprob": -1.072,
+      "no_speech_prob": 0.167
+    },
+    {
+      "id": 89,
+      "start": 309.76,
+      "end": 313.96,
+      "text": "یہ پورا جوجی بے گئے ہے ایک نمبر کا عطرا تٹیت",
+      "avg_logprob": -0.596,
+      "no_speech_prob": 0.159
+    },
+    {
+      "id": 90,
+      "start": 314.93,
+      "end": 315.93,
+      "text": "مجھے پہلے پتہ ہوتا تھا نا",
+      "avg_logprob": -0.333,
+      "no_speech_prob": 0.284
+    },
+    {
+      "id": 91,
+      "start": 316.93,
+      "end": 318.93,
+      "text": "تو شاہوں کے گھر خود چل کے آیا ہے وہ دی سرکار",
+      "avg_logprob": -0.333,
+      "no_speech_prob": 0.284
+    },
+    {
+      "id": 92,
+      "start": 320.22,
+      "end": 322.22,
+      "text": "اسے کان سے پکڑھ کے لیکے جاتی بھوک پرواہنے",
+      "avg_logprob": -0.333,
+      "no_speech_prob": 0.284
+    },
+    {
+      "id": 93,
+      "start": 322.22,
+      "end": 324.22,
+      "text": "کہتے ہیں کہ ان کے دم میں بڑا اصر ہے",
+      "avg_logprob": -0.333,
+      "no_speech_prob": 0.284
+    },
+    {
+      "id": 94,
+      "start": 325.89,
+      "end": 326.89,
+      "text": "کون وہ دی سرکار",
+      "avg_logprob": -0.333,
+      "no_speech_prob": 0.284
+    },
+    {
+      "id": 95,
+      "start": 327.95,
+      "end": 329.95,
+      "text": "وہی کرامتو مالے پیر ان کی دعا میں بڑا اصر ہے",
+      "avg_logprob": -0.333,
+      "no_speech_prob": 0.284
+    },
+    {
+      "id": 96,
+      "start": 330.95,
+      "end": 332.95,
+      "text": "بڑی دور دوسر لوگ ان کے دیرے جاتے ہیں",
+      "avg_logprob": -0.333,
+      "no_speech_prob": 0.284
+    },
+    {
+      "id": 97,
+      "start": 334.08,
+      "end": 335.08,
+      "text": "تو یہاں کیا کرنے آئے ہیں",
+      "avg_logprob": -0.333,
+      "no_speech_prob": 0.284
+    },
+    {
+      "id": 98,
+      "start": 336.08,
+      "end": 337.08,
+      "text": "کل سوم بتااری تھی وہ جو شانی ہے",
+      "avg_logprob": -0.333,
+      "no_speech_prob": 0.284
+    },
+    {
+      "id": 99,
+      "start": 337.08,
+      "end": 339.48,
+      "text": "جو دو دائی مہینے پرلی گلی میں آئے ہیں",
+      "avg_logprob": -0.314,
+      "no_speech_prob": 0.606
+    },
+    {
+      "id": 100,
+      "start": 339.48,
+      "end": 343.64,
+      "text": "یہ ان کے خاص موریدوں میں سے ہیں ان کے خان دانی خدمت گزار",
+      "avg_logprob": -0.314,
+      "no_speech_prob": 0.606
+    },
+    {
+      "id": 101,
+      "start": 343.64,
+      "end": 347.28,
+      "text": "وڈڈی سرکار صفر پہ آتے جاتے ہیں کچھ شاہوں کے پاس برک جاتے ہیں",
+      "avg_logprob": -0.314,
+      "no_speech_prob": 0.606
+    },
+    {
+      "id": 102,
+      "start": 347.28,
+      "end": 350.08,
+      "text": "اسی بہانے ملے والے بھی فیز اٹھا لیتے ہیں",
+      "avg_logprob": -0.314,
+      "no_speech_prob": 0.606
+    },
+    {
+      "id": 103,
+      "start": 350.08,
+      "end": 354.06,
+      "text": "آپ کہو تو ابراہیم کو دم کرا لاؤں",
+      "avg_logprob": -0.314,
+      "no_speech_prob": 0.606
+    },
+    {
+      "id": 104,
+      "start": 354.06,
+      "end": 356.5,
+      "text": "یہ ٹیم ہے گھر سے نکلنے کا",
+      "avg_logprob": -0.314,
+      "no_speech_prob": 0.606
+    },
+    {
+      "id": 105,
+      "start": 356.5,
+      "end": 358.51,
+      "text": "مغرب ہونے والی",
+      "avg_logprob": -0.314,
+      "no_speech_prob": 0.606
+    },
+    {
+      "id": 106,
+      "start": 358.51,
+      "end": 360.86,
+      "text": "سوئر تک تو وہ نکل گئے ہوں گے",
+      "avg_logprob": -0.314,
+      "no_speech_prob": 0.606
+    },
+    {
+      "id": 107,
+      "start": 360.86,
+      "end": 364.86,
+      "text": "میں نے تو سنایا کہ وڈڈی سرکار نے شاہوں کی نوں کو خاص نائت کی ہے",
+      "avg_logprob": -0.314,
+      "no_speech_prob": 0.606
+    },
+    {
+      "id": 108,
+      "start": 368.26,
+      "end": 368.82,
+      "text": "ہی؟",
+      "avg_logprob": -0.507,
+      "no_speech_prob": 0.075
+    },
+    {
+      "id": 109,
+      "start": 368.82,
+      "end": 369.66,
+      "text": "ہاں",
+      "avg_logprob": -0.507,
+      "no_speech_prob": 0.075
+    },
+    {
+      "id": 110,
+      "start": 370.32,
+      "end": 371.4,
+      "text": "اگبرشا",
+      "avg_logprob": -0.507,
+      "no_speech_prob": 0.075
+    },
+    {
+      "id": 111,
+      "start": 372.32,
+      "end": 373.36,
+      "text": "یہ بہت",
+      "avg_logprob": -0.507,
+      "no_speech_prob": 0.075
+    },
+    {
+      "id": 112,
+      "start": 373.72,
+      "end": 375.52,
+      "text": "مبارک قدم بھی بھی",
+      "avg_logprob": -0.507,
+      "no_speech_prob": 0.075
+    },
+    {
+      "id": 113,
+      "start": 376.94,
+      "end": 379.3,
+      "text": "تمہاری نسرن سمارتے گی",
+      "avg_logprob": -0.507,
+      "no_speech_prob": 0.075
+    },
+    {
+      "id": 114,
+      "start": 381.78,
+      "end": 383.06,
+      "text": "ما شاہ اللہ",
+      "avg_logprob": -0.507,
+      "no_speech_prob": 0.075
+    },
+    {
+      "id": 115,
+      "start": 383.83,
+      "end": 384.91,
+      "text": "اس سمر میں",
+      "avg_logprob": -0.507,
+      "no_speech_prob": 0.075
+    },
+    {
+      "id": 116,
+      "start": 385.39,
+      "end": 388.11,
+      "text": "اتنی عبادت اور پہلے از گاری",
+      "avg_logprob": -0.507,
+      "no_speech_prob": 0.075
+    },
+    {
+      "id": 117,
+      "start": 388.43,
+      "end": 391.65,
+      "text": "سب آپ کی دعوں کی بدونت ہے سکار",
+      "avg_logprob": -0.507,
+      "no_speech_prob": 0.075
+    },
+    {
+      "id": 118,
+      "start": 394.26,
+      "end": 396.66,
+      "text": "انی قدم سے میرا یہاں گا ناباد ہے",
+      "avg_logprob": -0.507,
+      "no_speech_prob": 0.075
+    },
+    {
+      "id": 119,
+      "start": 400.06,
+      "end": 400.82,
+      "text": "تم نے",
+      "avg_logprob": -0.507,
+      "no_speech_prob": 0.075
+    },
+    {
+      "id": 120,
+      "start": 401.43,
+      "end": 404.47,
+      "text": "ہمارا بتایا ہوا وظیف ہم اکمل کر لیا",
+      "avg_logprob": -0.507,
+      "no_speech_prob": 0.075
+    },
+    {
+      "id": 121,
+      "start": 405.15,
+      "end": 405.75,
+      "text": "جی",
+      "avg_logprob": -0.507,
+      "no_speech_prob": 0.075
+    },
+    {
+      "id": 122,
+      "start": 405.75,
+      "end": 410.1,
+      "text": "اب تو ملے کی ساری لڑکی آنا اسی سے قرآن پڑتی ہے",
+      "avg_logprob": -0.396,
+      "no_speech_prob": 0.116
+    },
+    {
+      "id": 123,
+      "start": 410.1,
+      "end": 412.38,
+      "text": "لکھ آنا بتایا تھا آسیانے",
+      "avg_logprob": -0.396,
+      "no_speech_prob": 0.116
+    },
+    {
+      "id": 124,
+      "start": 412.38,
+      "end": 414.66,
+      "text": "آہو بلکیس",
+      "avg_logprob": -0.396,
+      "no_speech_prob": 0.116
+    },
+    {
+      "id": 125,
+      "start": 414.66,
+      "end": 417.02,
+      "text": "کسوم نے بھی تو یہ بتایا تھا",
+      "avg_logprob": -0.396,
+      "no_speech_prob": 0.116
+    },
+    {
+      "id": 126,
+      "start": 417.02,
+      "end": 419.98,
+      "text": "بلکیس بانو وزیرہ باسے شاہوں کے گھر بیاں آئی ہے",
+      "avg_logprob": -0.396,
+      "no_speech_prob": 0.116
+    },
+    {
+      "id": 127,
+      "start": 419.98,
+      "end": 431.27,
+      "text": "میں تو باتوں میں لگ گئی آپ اپکی ہو گئے با",
+      "avg_logprob": -0.396,
+      "no_speech_prob": 0.116
+    },
+    {
+      "id": 128,
+      "start": 431.27,
+      "end": 434.1,
+      "text": "کھانا تو کھاکے جائے گوالجی",
+      "avg_logprob": -0.396,
+      "no_speech_prob": 0.116
+    },
+    {
+      "id": 129,
+      "start": 434.1,
+      "end": 437.52,
+      "text": "بھا جی ہے تھی روٹی بھی نہیں کھاکے گئے",
+      "avg_logprob": -0.396,
+      "no_speech_prob": 0.116
+    },
+    {
+      "id": 130,
+      "start": 437.52,
+      "end": 441.0,
+      "text": "تو تُو بھی تو اس کے ہاتھ اسا دھپوں میں لگ گئی",
+      "avg_logprob": -0.396,
+      "no_speech_prob": 0.116
+    },
+    {
+      "id": 131,
+      "start": 441.0,
+      "end": 455.28,
+      "text": "دیان رکھنا جو اس رسطوں پہ چل پڑے اس کے سامنے آزمائشیں پھر ذنو راتی",
+      "avg_logprob": -0.43,
+      "no_speech_prob": 0.238
+    },
+    {
+      "id": 132,
+      "start": 455.28,
+      "end": 468.85,
+      "text": "ان آزمائشوں سے کھبرانا مت وہ تمہیں کندن بنانے کے لیے ہوں گی قدم جمعے رکھنا",
+      "avg_logprob": -0.43,
+      "no_speech_prob": 0.238
+    },
+    {
+      "id": 133,
+      "start": 468.85,
+      "end": 505.36,
+      "text": "لکی آنا بتایا تھا آسیان نے",
+      "avg_logprob": -0.43,
+      "no_speech_prob": 0.238
+    },
+    {
+      "id": 134,
+      "start": 505.36,
+      "end": 507.2,
+      "text": "آہو بلگیز",
+      "avg_logprob": -0.43,
+      "no_speech_prob": 0.238
+    },
+    {
+      "id": 135,
+      "start": 507.2,
+      "end": 510.08,
+      "text": "بلگیز بانو مزیرہ باہ سے شاو کے دھربی آئی ہے",
+      "avg_logprob": -0.43,
+      "no_speech_prob": 0.238
+    },
+    {
+      "id": 136,
+      "start": 701.62,
+      "end": 704.54,
+      "text": "یہ، اے!",
+      "avg_logprob": -1.033,
+      "no_speech_prob": 0.015
+    },
+    {
+      "id": 137,
+      "start": 704.54,
+      "end": 711.64,
+      "text": "اور اب دلہ روان دیحان سے نظر بھائی جاں",
+      "avg_logprob": -1.033,
+      "no_speech_prob": 0.015
+    },
+    {
+      "id": 138,
+      "start": 712.2,
+      "end": 714.28,
+      "text": "کال آپ لوگوں کی شادی کے سار گرا ہے",
+      "avg_logprob": -1.033,
+      "no_speech_prob": 0.015
+    },
+    {
+      "id": 139,
+      "start": 716.13,
+      "end": 717.53,
+      "text": "آپ ہوابیک کو توفع مکنتیں گے",
+      "avg_logprob": -1.033,
+      "no_speech_prob": 0.015
+    },
+    {
+      "id": 140,
+      "start": 729.04,
+      "end": 730.36,
+      "text": "ماشین تم بچ چھی نہیں رہی واب",
+      "avg_logprob": -1.033,
+      "no_speech_prob": 0.015
+    },
+    {
+      "id": 141,
+      "start": 731.49,
+      "end": 733.69,
+      "text": "عجید رہا جاتی ہو کہ میری شادی کے سار گرا گئے دن",
+      "avg_logprob": -1.033,
+      "no_speech_prob": 0.015
+    },
+    {
+      "id": 142,
+      "start": 734.21,
+      "end": 735.53,
+      "text": "والکی اس کے بھائی کا برسی ہوتی ہے",
+      "avg_logprob": -1.033,
+      "no_speech_prob": 0.015
+    },
+    {
+      "id": 143,
+      "start": 860.35,
+      "end": 865.4,
+      "text": "سجن تو تھلے ہوئتا ہے",
+      "avg_logprob": -0.485,
+      "no_speech_prob": 0.522
+    },
+    {
+      "id": 144,
+      "start": 865.4,
+      "end": 912.39,
+      "text": "اُن اچھاوے یار تنچنا پہندا ہے",
+      "avg_logprob": -0.485,
+      "no_speech_prob": 0.522
+    },
+    {
+      "id": 145,
+      "start": 912.39,
+      "end": 919.03,
+      "text": "جد مل جاوے دیدا تنچنا پہندا ہے",
+      "avg_logprob": -0.485,
+      "no_speech_prob": 0.522
+    },
+    {
+      "id": 146,
+      "start": 919.03,
+      "end": 930.14,
+      "text": "آجایا دیدا",
+      "avg_logprob": -0.485,
+      "no_speech_prob": 0.522
+    },
+    {
+      "id": 147,
+      "start": 930.14,
+      "end": 939.38,
+      "text": "آجایا",
+      "avg_logprob": -0.485,
+      "no_speech_prob": 0.522
+    },
+    {
+      "id": 148,
+      "start": 939.38,
+      "end": 942.38,
+      "text": "دیدی دا",
+      "avg_logprob": -0.734,
+      "no_speech_prob": 0.657
+    }
+  ]
+}
